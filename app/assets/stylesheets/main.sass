@@ -1,0 +1,59 @@
+@import bourbon
+
+html
+  overflow: hidden
+  height: 100%
+  body
+    height: 100%
+    width: 100%
+    margin: 0
+    padding: 0
+  
+  main
+    height: 1500px
+    +background-image(radial-gradient(#404041, white))
+    .banner_image
+      width: 50%
+      height: 300px
+      border-radius: 15px
+      color: #F23005
+      border: 2px solid black
+      position: relative
+      margin: 92px auto 0
+      background: url('http://i.loopme.me/db35436199e510a0.png') no-repeat
+      background-size: 100% 100%
+
+      &::before
+        content: ""
+        display: block
+        background: url('http://i.loopme.me/db35436199e510a0.png') no-repeat
+        background-size: 100% 100%
+        width: 100%
+        height: 300px
+        border-radius: 15px
+        top: 100%
+        +transform(rotateX(180deg))
+        position: relative
+        opacity: 0.4
+        border-radius: 15px
+
+
+
+      // -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(250, 250, 250, 0.1)))
+      // img
+      //   width: 100%
+      //   height: 100%
+      //   border-radius: 15px
+
+
+    .download
+      width: 90%
+      border-radius: 15px
+      text-align: center
+      position: relative
+      background: #FF2600
+      color: #fff
+      font-size: 30px
+      margin: 50px auto
+
+

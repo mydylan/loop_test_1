@@ -1,13 +1,4 @@
-var request = new XMLHttpRequest();
-request.open('GET', 'http://loopme.me/api/v2/ads?p=1&vt=g89v1bs9cx&ak=caab1e2a20&pp=1', true);
+var json = '{"ads":[{"data":{"ad_hides":{"enabled":true,"value":0},"click_url":"http://loopme.me/go2/tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU","type":"IMAGE","image_url":"http://i.loopme.me/db35436199e510a0.png","share_url":"http://loopme.me/go2/tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU","ad_shares":{"enabled":true,"value":0},"ad_likes":{"enabled":true,"value":0},"id":"tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU","download_btn_color":"#00AF33","delay":3000},"beacons":{"ad_show":"http://loopme.me/api/v2/events?id=tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU&et=AD_SHOW","ad_like":"http://loopme.me/api/v2/events?id=tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU&et=AD_LIKE","ad_hide":"http://loopme.me/api/v2/events?id=tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU&et=AD_HIDE","ad_share":"http://loopme.me/api/v2/events?id=tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU&et=AD_SHARE","video_start":"http://loopme.me/api/v2/events?id=tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU&et=VIDEO_STARTS","video_time":"http://loopme.me/api/v2/events?id=tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU&et=VIDEO_TIMES","video_complete":"http://loopme.me/api/v2/events?id=tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU&et=VIDEO_COMPLETES"}}],"version":"v0.2.383","session":{"si":"a2tkimzh","beacons":{"inbox_open":"http://loopme.me/api/v2/events?et=INBOX_OPEN&rid=a2tkimzh&id=tikjCKy-KsdWOBcFCcoz_Bmm79sW8PKt2_euiEAZPsU","ad_close":"http://loopme.me/api/v2/events?et=AD_CLOSE&rid=a2tkimzh"}}}'
 
-request.onload = function() {
-  if (request.status >= 200 && request.status < 400) {
-    // Success!
-    var data = JSON.parse(request.responseText);
-    console.log(data);
-  } else {
-    console.log(error);
-
-  }
-};
+var data = JSON.parse(json);
+console.log(data);

@@ -456,3 +456,2927 @@ Started GET "/assets/application-5d0f6f83f2e1673fd02114ed26b36905.js?body=1" for
 
 
 Started GET "/assets/vanilla-64e62ddc273c2f5847f30d698ca14b67.js?body=1" for 127.0.0.1 at 2015-02-12 00:12:34 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 13:41:26 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (24.4ms)
+Completed 500 Internal Server Error in 246ms
+
+ActionView::Template::Error (couldn't find file 'vanilla'
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/javascripts/application.js:14)):
+     9: 
+    10:     = yield 
+    11:   
+    12:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:12:in `_app_views_layouts_application_slim___626813260118944880_30344140'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (20.9ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (10.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (68.6ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 13:41:46 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 802ms (Views: 801.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:41:47 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:41:47 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:41:47 +0200
+
+
+Started GET "/assets/main-96506a4b50860cc9f00d7cdbde36ef01.js?body=1" for ::1 at 2015-02-12 13:41:47 +0200
+
+
+Started GET "/assets/application-e1b2a7c7b63428598a31fa96328e80c7.js?body=1" for ::1 at 2015-02-12 13:41:47 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 13:43:56 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 62ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:43:57 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:43:57 +0200
+
+
+Started GET "/assets/main-7a013c4b4778836fb82701ac764aabee.js?body=1" for ::1 at 2015-02-12 13:43:57 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:43:57 +0200
+
+
+Started GET "/assets/application-0818c90b89d53ebcb0a6f2c19b0a39da.js?body=1" for ::1 at 2015-02-12 13:43:57 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 13:47:33 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 147ms (Views: 145.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:47:33 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:47:33 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:47:33 +0200
+
+
+Started GET "/assets/application-3c4ec0f904d80bc8ed67632a244ae780.js?body=1" for ::1 at 2015-02-12 13:47:33 +0200
+
+
+Started GET "/assets/main-f3bab111c403e90d65c759ef2deb0fc2.js?body=1" for ::1 at 2015-02-12 13:47:33 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 13:47:35 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 31ms (Views: 29.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:47:35 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:47:35 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:47:35 +0200
+
+
+Started GET "/assets/main-f3bab111c403e90d65c759ef2deb0fc2.js?body=1" for ::1 at 2015-02-12 13:47:35 +0200
+
+
+Started GET "/assets/application-3c4ec0f904d80bc8ed67632a244ae780.js?body=1" for ::1 at 2015-02-12 13:47:35 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 13:47:41 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 72ms (Views: 71.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:47:41 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:47:41 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:47:41 +0200
+
+
+Started GET "/assets/main-f3bab111c403e90d65c759ef2deb0fc2.js?body=1" for ::1 at 2015-02-12 13:47:41 +0200
+
+
+Started GET "/assets/application-3c4ec0f904d80bc8ed67632a244ae780.js?body=1" for ::1 at 2015-02-12 13:47:41 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 13:51:50 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 114ms (Views: 113.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:51:50 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:51:50 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:51:50 +0200
+
+
+Started GET "/assets/main-3f7475e3d791be983df2c5bd1087a943.js?body=1" for ::1 at 2015-02-12 13:51:50 +0200
+
+
+Started GET "/assets/application-dbecf8d448a123d4a07fed4e5181dacc.js?body=1" for ::1 at 2015-02-12 13:51:50 +0200
+
+
+Started GET "/json.txt" for ::1 at 2015-02-12 13:51:50 +0200
+
+ActionController::RoutingError (No route matches [GET] "/json.txt"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.7ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (0.9ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (210.6ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (279.9ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 13:54:08 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 57ms (Views: 55.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:54:08 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:54:08 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:54:08 +0200
+
+
+Started GET "/assets/main-c7e4fdfb7387e2b9903f7a409bf0b87a.js?body=1" for ::1 at 2015-02-12 13:54:08 +0200
+
+
+Started GET "/assets/application-bf9534f65b2c01c573d26fce67f324f6.js?body=1" for ::1 at 2015-02-12 13:54:08 +0200
+
+
+Started GET "/json.txt" for ::1 at 2015-02-12 13:54:08 +0200
+
+ActionController::RoutingError (No route matches [GET] "/json.txt"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (0.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.2ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (37.5ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 13:54:11 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 29ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:54:11 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:54:11 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:54:11 +0200
+
+
+Started GET "/assets/main-c7e4fdfb7387e2b9903f7a409bf0b87a.js?body=1" for ::1 at 2015-02-12 13:54:11 +0200
+
+
+Started GET "/assets/application-bf9534f65b2c01c573d26fce67f324f6.js?body=1" for ::1 at 2015-02-12 13:54:11 +0200
+
+
+Started GET "/json.txt" for ::1 at 2015-02-12 13:54:11 +0200
+
+ActionController::RoutingError (No route matches [GET] "/json.txt"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (0.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (27.9ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 13:55:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:55:16 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:55:16 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:55:16 +0200
+
+
+Started GET "/assets/main-c7e4fdfb7387e2b9903f7a409bf0b87a.js?body=1" for ::1 at 2015-02-12 13:55:16 +0200
+
+
+Started GET "/assets/application-bf9534f65b2c01c573d26fce67f324f6.js?body=1" for ::1 at 2015-02-12 13:55:16 +0200
+
+
+Started GET "/json.txt" for ::1 at 2015-02-12 13:55:16 +0200
+
+ActionController::RoutingError (No route matches [GET] "/json.txt"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (0.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (1.4ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (87.6ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 13:55:17 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 36ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:55:18 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:55:18 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:55:18 +0200
+
+
+Started GET "/assets/main-c7e4fdfb7387e2b9903f7a409bf0b87a.js?body=1" for ::1 at 2015-02-12 13:55:18 +0200
+
+
+Started GET "/assets/application-bf9534f65b2c01c573d26fce67f324f6.js?body=1" for ::1 at 2015-02-12 13:55:18 +0200
+
+
+Started GET "/json.txt" for ::1 at 2015-02-12 13:55:18 +0200
+
+ActionController::RoutingError (No route matches [GET] "/json.txt"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (0.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (32.2ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 13:55:18 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 30ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:55:18 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:55:18 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:55:18 +0200
+
+
+Started GET "/assets/main-c7e4fdfb7387e2b9903f7a409bf0b87a.js?body=1" for ::1 at 2015-02-12 13:55:18 +0200
+
+
+Started GET "/assets/application-bf9534f65b2c01c573d26fce67f324f6.js?body=1" for ::1 at 2015-02-12 13:55:18 +0200
+
+
+Started GET "/json.txt" for ::1 at 2015-02-12 13:55:18 +0200
+
+ActionController::RoutingError (No route matches [GET] "/json.txt"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (1.4ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (38.6ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 13:55:19 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 39ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:55:19 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:55:19 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:55:19 +0200
+
+
+Started GET "/assets/main-c7e4fdfb7387e2b9903f7a409bf0b87a.js?body=1" for ::1 at 2015-02-12 13:55:19 +0200
+
+
+Started GET "/assets/application-bf9534f65b2c01c573d26fce67f324f6.js?body=1" for ::1 at 2015-02-12 13:55:19 +0200
+
+
+Started GET "/json.txt" for ::1 at 2015-02-12 13:55:19 +0200
+
+ActionController::RoutingError (No route matches [GET] "/json.txt"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (0.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (27.9ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 13:55:19 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 32ms (Views: 30.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 13:55:19 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 13:55:19 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 13:55:19 +0200
+
+
+Started GET "/assets/main-c7e4fdfb7387e2b9903f7a409bf0b87a.js?body=1" for ::1 at 2015-02-12 13:55:19 +0200
+
+
+Started GET "/assets/application-bf9534f65b2c01c573d26fce67f324f6.js?body=1" for ::1 at 2015-02-12 13:55:19 +0200
+
+
+Started GET "/json.txt" for ::1 at 2015-02-12 13:55:19 +0200
+
+ActionController::RoutingError (No route matches [GET] "/json.txt"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (0.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.9ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (31.3ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 14:27:49 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (5.2ms)
+Completed 200 OK in 105ms (Views: 104.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 14:27:50 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 14:27:50 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 14:27:50 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 14:27:50 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 14:27:50 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 14:53:33 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 74ms (Views: 73.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 14:53:33 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 14:53:33 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 14:53:33 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 14:53:33 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 14:53:33 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-12 14:53:36 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 14:53:36 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:17:19 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 24ms
+
+ActionView::Template::Error (Invalid property: "box-shadow:" (no value).
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:15)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:15
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___626813260118944880_30344140'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (15.7ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (47.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (82.7ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 15:17:28 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 32ms
+
+ActionView::Template::Error (File to import not found or unreadable: bourbon.
+Load paths:
+  /home/kostiuchenko/Sites/TEST_LOOP/app/assets/images
+  /home/kostiuchenko/Sites/TEST_LOOP/app/assets/javascripts
+  /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets
+  /home/kostiuchenko/Sites/TEST_LOOP/vendor/assets/javascripts
+  /home/kostiuchenko/Sites/TEST_LOOP/vendor/assets/stylesheets
+  /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/assets/javascripts
+  /opt/rvm/gems/ruby-1.9.3-p194/gems/turbolinks-2.5.3/lib/assets/javascripts
+  /opt/rvm/gems/ruby-1.9.3-p194/gems/jquery-rails-4.0.3/vendor/assets/javascripts
+  /opt/rvm/gems/ruby-1.9.3-p194/gems/coffee-rails-4.1.0/lib/assets/javascripts
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:1)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:1
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___626813260118944880_30344140'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (15.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (54.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.3ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (90.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 15:33:08 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (15.4ms)
+Completed 200 OK in 2104ms (Views: 2091.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-b5d1e0b5b20d9291088d1d6221e4a74e.css?body=1" for ::1 at 2015-02-12 15:33:11 +0200
+
+
+Started GET "/assets/application-0e062995a3b9439ff0b1302ad3dae924.css?body=1" for ::1 at 2015-02-12 15:33:11 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:33:11 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:33:11 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:33:11 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:34:06 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 733ms (Views: 732.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-2d1844423a51b5a74f431a2d839888e6.css?body=1" for ::1 at 2015-02-12 15:34:06 +0200
+
+
+Started GET "/assets/application-77161facabea1bef603c5f64f257b53e.css?body=1" for ::1 at 2015-02-12 15:34:07 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:34:07 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:34:07 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:34:07 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:39:20 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 90ms
+
+ActionView::Template::Error (Invalid CSS after "": expected expression (e.g. 1px, bold), was "background-imag..."
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:14)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:14
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___2384555839125710295_45600360'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (17.9ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.9ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (48.6ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 15:39:35 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 780ms (Views: 778.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-95137e3a56701d99f6dbdc22123a7fa7.css?body=1" for ::1 at 2015-02-12 15:39:36 +0200
+
+
+Started GET "/assets/application-0044d06090424a052fd5caa07bc60805.css?body=1" for ::1 at 2015-02-12 15:39:36 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:39:36 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:39:36 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:39:36 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:39:44 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 744ms (Views: 742.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-95137e3a56701d99f6dbdc22123a7fa7.css?body=1" for ::1 at 2015-02-12 15:39:45 +0200
+
+
+Started GET "/assets/application-0044d06090424a052fd5caa07bc60805.css?body=1" for ::1 at 2015-02-12 15:39:45 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:39:45 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:39:45 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:39:45 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:40:55 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 44ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-95137e3a56701d99f6dbdc22123a7fa7.css?body=1" for ::1 at 2015-02-12 15:40:55 +0200
+
+
+Started GET "/assets/application-0044d06090424a052fd5caa07bc60805.css?body=1" for ::1 at 2015-02-12 15:40:55 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:40:55 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:40:55 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:40:55 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:41:53 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 739ms (Views: 737.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-1080f8572c1fec7993584f51b85fba2f.css?body=1" for ::1 at 2015-02-12 15:41:54 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:41:54 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:41:54 +0200
+
+
+Started GET "/assets/application-b0c786a262511a6eede79d227682bde9.css?body=1" for ::1 at 2015-02-12 15:41:54 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:41:54 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:44:34 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 753ms (Views: 751.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-b759cdfbc00882ee315045ea5be69fae.css?body=1" for ::1 at 2015-02-12 15:44:35 +0200
+
+
+Started GET "/assets/application-3afb0ab0a6c409ebde794a05391c1271.css?body=1" for ::1 at 2015-02-12 15:44:35 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:44:35 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:44:35 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:44:35 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:45:24 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 758ms (Views: 757.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-d3b0f3ab2b1009184ff8c22e0c32a3ee.css?body=1" for ::1 at 2015-02-12 15:45:25 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:45:25 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:45:25 +0200
+
+
+Started GET "/assets/application-f8984aed322fa73771ed5a23f3957000.css?body=1" for ::1 at 2015-02-12 15:45:25 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:45:25 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:45:34 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 705ms (Views: 703.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-9be26a66fdd54d0d1eea03b5e737a9dc.css?body=1" for ::1 at 2015-02-12 15:45:35 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:45:35 +0200
+
+
+Started GET "/assets/application-c62a47abe5ec33f013478b903cabe1ae.css?body=1" for ::1 at 2015-02-12 15:45:35 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:45:35 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:45:35 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:48:25 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (6.0ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 736ms (Views: 735.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-f5a018c438748de31708374aa3aab44e.css?body=1" for ::1 at 2015-02-12 15:48:26 +0200
+
+
+Started GET "/assets/application-6e14640c08af8135fedbde0a4890618d.css?body=1" for ::1 at 2015-02-12 15:48:26 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:48:26 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:48:26 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:48:26 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:48:46 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 670ms (Views: 668.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-b20d2c6e0f9bdc6084c560034dcc2c53.css?body=1" for ::1 at 2015-02-12 15:48:47 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:48:47 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:48:47 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:48:47 +0200
+
+
+Started GET "/assets/application-ede13010344cd9800a3ac96c93619af1.css?body=1" for ::1 at 2015-02-12 15:48:47 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:48:54 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 790ms (Views: 789.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-bf841abbc46b84423f01b792079995dc.css?body=1" for ::1 at 2015-02-12 15:48:55 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:48:55 +0200
+
+
+Started GET "/assets/application-c1afeae856f3c560505d645e4d1ab396.css?body=1" for ::1 at 2015-02-12 15:48:55 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:48:55 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:48:55 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:49:04 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 15 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 762ms (Views: 761.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-6a2c6737630bd1015e5211dbb2412968.css?body=1" for ::1 at 2015-02-12 15:49:05 +0200
+
+
+Started GET "/assets/application-45fe58f593776615cb885670cbb6cb09.css?body=1" for ::1 at 2015-02-12 15:49:05 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:49:05 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:49:05 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:49:05 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:49:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 44ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-6a2c6737630bd1015e5211dbb2412968.css?body=1" for ::1 at 2015-02-12 15:49:16 +0200
+
+
+Started GET "/assets/application-45fe58f593776615cb885670cbb6cb09.css?body=1" for ::1 at 2015-02-12 15:49:16 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:49:16 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:49:16 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:49:16 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:49:17 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 37ms (Views: 35.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-6a2c6737630bd1015e5211dbb2412968.css?body=1" for ::1 at 2015-02-12 15:49:17 +0200
+
+
+Started GET "/assets/application-45fe58f593776615cb885670cbb6cb09.css?body=1" for ::1 at 2015-02-12 15:49:17 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:49:17 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:49:17 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:49:17 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:49:20 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 39ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-6a2c6737630bd1015e5211dbb2412968.css?body=1" for ::1 at 2015-02-12 15:49:20 +0200
+
+
+Started GET "/assets/application-45fe58f593776615cb885670cbb6cb09.css?body=1" for ::1 at 2015-02-12 15:49:20 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:49:20 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:49:20 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:49:20 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:49:25 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 44ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-6a2c6737630bd1015e5211dbb2412968.css?body=1" for ::1 at 2015-02-12 15:49:25 +0200
+
+
+Started GET "/assets/application-45fe58f593776615cb885670cbb6cb09.css?body=1" for ::1 at 2015-02-12 15:49:25 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:49:25 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:49:25 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:49:25 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:50:21 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 102ms (Views: 101.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 15:50:37 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 40ms (Views: 39.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-6a2c6737630bd1015e5211dbb2412968.css?body=1" for ::1 at 2015-02-12 15:50:37 +0200
+
+
+Started GET "/assets/application-45fe58f593776615cb885670cbb6cb09.css?body=1" for ::1 at 2015-02-12 15:50:37 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:50:37 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:50:37 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:50:37 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:51:18 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 755ms (Views: 753.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-26ab806b7d637b57678cb43f71a28a3d.css?body=1" for ::1 at 2015-02-12 15:51:19 +0200
+
+
+Started GET "/assets/application-85aee1bbf079f898b0fddcd81023bd0d.css?body=1" for ::1 at 2015-02-12 15:51:19 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 15:51:19 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 15:51:19 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 15:51:19 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 15:56:02 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 29ms
+
+ActionView::Template::Error (Invalid CSS after "...250, 250, 0.1))": expected ")", was ""
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:37)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:37
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___2384555839125710295_45600360'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (26.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (12.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (64.1ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 15:56:07 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 101ms
+
+ActionView::Template::Error (Properties are only allowed within rules, directives, mixin includes, or other properties.
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:37)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:37
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___2384555839125710295_45600360'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (15.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (7.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (41.4ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 15:56:57 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 30ms
+
+ActionView::Template::Error (The line was indented 3 levels deeper than the previous line.
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:36)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:36
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___2384555839125710295_45600360'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (17.7ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (9.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (55.1ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 15:57:09 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 102ms
+
+ActionView::Template::Error (The line was indented 3 levels deeper than the previous line.
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:36)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:36
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___2384555839125710295_45600360'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (13.9ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (7.2ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (40.8ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 16:19:21 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 756ms (Views: 750.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-26ab806b7d637b57678cb43f71a28a3d.css?body=1" for ::1 at 2015-02-12 16:19:22 +0200
+
+
+Started GET "/assets/application-85aee1bbf079f898b0fddcd81023bd0d.css?body=1" for ::1 at 2015-02-12 16:19:22 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:19:22 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:19:22 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:19:22 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:21:21 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.2ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 738ms (Views: 736.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-ff40e0fb100095a0e79a264645305635.css?body=1" for ::1 at 2015-02-12 16:21:22 +0200
+
+
+Started GET "/assets/application-1056e7285637a86bff16db4f582c6ecf.css?body=1" for ::1 at 2015-02-12 16:21:22 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:21:22 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:21:22 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:21:22 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:21:44 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 753ms (Views: 751.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-48604093a7ea32ca200ed30c19fa0f89.css?body=1" for ::1 at 2015-02-12 16:21:45 +0200
+
+
+Started GET "/assets/application-eee3be9b11cecc29dd8c0f55b8b71eed.css?body=1" for ::1 at 2015-02-12 16:21:45 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:21:45 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:21:45 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:21:45 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:21:45 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 40ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-48604093a7ea32ca200ed30c19fa0f89.css?body=1" for ::1 at 2015-02-12 16:21:46 +0200
+
+
+Started GET "/assets/application-eee3be9b11cecc29dd8c0f55b8b71eed.css?body=1" for ::1 at 2015-02-12 16:21:46 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:21:46 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:21:46 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:21:46 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:22:50 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 760ms (Views: 759.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-1d794ac9281ce95efa38e5b5f9d19d82.css?body=1" for ::1 at 2015-02-12 16:22:51 +0200
+
+
+Started GET "/assets/application-93f907a21b84ee4a86cfb166e0be7ce8.css?body=1" for ::1 at 2015-02-12 16:22:51 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:22:51 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:22:51 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:22:51 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:23:09 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 991ms (Views: 989.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-a95c96691c820da7b9edfaf22c36ce93.css?body=1" for ::1 at 2015-02-12 16:23:10 +0200
+
+
+Started GET "/assets/application-4920f5679c1a0f38d813a4e609a5363d.css?body=1" for ::1 at 2015-02-12 16:23:10 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:23:10 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:23:10 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:23:10 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:27:22 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 726ms (Views: 725.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-456818092cbe9e126219a40e67e85dd7.css?body=1" for ::1 at 2015-02-12 16:27:23 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:27:23 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:27:23 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:27:23 +0200
+
+
+Started GET "/assets/application-a084c61f92ecd947ea919f33c4a6c285.css?body=1" for ::1 at 2015-02-12 16:27:23 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:27:31 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 120ms (Views: 118.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-456818092cbe9e126219a40e67e85dd7.css?body=1" for ::1 at 2015-02-12 16:27:31 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:27:31 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:27:31 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:27:31 +0200
+
+
+Started GET "/assets/application-a084c61f92ecd947ea919f33c4a6c285.css?body=1" for ::1 at 2015-02-12 16:27:31 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:27:49 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 40ms (Views: 39.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-456818092cbe9e126219a40e67e85dd7.css?body=1" for ::1 at 2015-02-12 16:27:49 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:27:49 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:27:49 +0200
+
+
+Started GET "/assets/application-a084c61f92ecd947ea919f33c4a6c285.css?body=1" for ::1 at 2015-02-12 16:27:49 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:27:49 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:38:29 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 41ms
+
+ActionView::Template::Error (Invalid CSS after "...gba(0, 0, 0, 0)": expected expression (e.g. 1px, bold), was ";"
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:27)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:27
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___2384555839125710295_45600360'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (14.3ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (12.2ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (53.1ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 16:38:43 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 26ms
+
+ActionView::Template::Error (Invalid CSS after """": expected expression (e.g. 1px, bold), was ";"
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:28)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:28
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___2384555839125710295_45600360'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (18.9ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (74.4ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.1ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (114.7ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 16:38:53 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 735ms (Views: 734.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-a621604e2b62d3810c918a5e8ed0add6.css?body=1" for ::1 at 2015-02-12 16:38:54 +0200
+
+
+Started GET "/assets/application-2c7b7ddd54d468ba9bdc0a1e9a32a5dc.css?body=1" for ::1 at 2015-02-12 16:38:54 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:38:54 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:38:54 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:38:54 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:39:02 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 31ms (Views: 30.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-a621604e2b62d3810c918a5e8ed0add6.css?body=1" for ::1 at 2015-02-12 16:39:02 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:39:02 +0200
+
+
+Started GET "/assets/application-2c7b7ddd54d468ba9bdc0a1e9a32a5dc.css?body=1" for ::1 at 2015-02-12 16:39:02 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:39:02 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:39:02 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:39:25 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (6.8ms)
+Completed 200 OK in 51ms (Views: 50.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-a621604e2b62d3810c918a5e8ed0add6.css?body=1" for ::1 at 2015-02-12 16:39:25 +0200
+
+
+Started GET "/assets/application-2c7b7ddd54d468ba9bdc0a1e9a32a5dc.css?body=1" for ::1 at 2015-02-12 16:39:25 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:39:25 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:39:25 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:39:25 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:39:28 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 43ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-a621604e2b62d3810c918a5e8ed0add6.css?body=1" for ::1 at 2015-02-12 16:39:28 +0200
+
+
+Started GET "/assets/application-2c7b7ddd54d468ba9bdc0a1e9a32a5dc.css?body=1" for ::1 at 2015-02-12 16:39:28 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:39:28 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:39:28 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:39:28 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:40:21 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 761ms (Views: 760.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-ca6d335b6621f345f8f7f61da0b7c846.css?body=1" for ::1 at 2015-02-12 16:40:22 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:40:22 +0200
+
+
+Started GET "/assets/application-0ace6d0eea1f7269344987b2689b5f35.css?body=1" for ::1 at 2015-02-12 16:40:22 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:40:22 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:40:22 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:41:03 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 771ms (Views: 769.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-505ec9b26f238b5b3de9d45cd0f8941a.css?body=1" for ::1 at 2015-02-12 16:41:04 +0200
+
+
+Started GET "/assets/application-9e5b31f9c64771d5a688eb6fb4999375.css?body=1" for ::1 at 2015-02-12 16:41:04 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:41:04 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:41:04 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:41:04 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:41:06 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 40ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-505ec9b26f238b5b3de9d45cd0f8941a.css?body=1" for ::1 at 2015-02-12 16:41:06 +0200
+
+
+Started GET "/assets/application-9e5b31f9c64771d5a688eb6fb4999375.css?body=1" for ::1 at 2015-02-12 16:41:06 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:41:06 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:41:06 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:41:06 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:48:04 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 500 Internal Server Error in 413ms
+
+ActionView::Template::Error (Undefined mixin 'rotate'.
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:29)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:29:in `rotate'
+  app/assets/stylesheets/main.sass:29
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___2384555839125710295_45600360'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (27.6ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (13.4ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (70.1ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 16:48:38 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.7ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 741ms (Views: 739.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-8f771b6241a2bddcffcd655b7991379f.css?body=1" for ::1 at 2015-02-12 16:48:39 +0200
+
+
+Started GET "/assets/application-0f680b59063669233222496368629dc3.css?body=1" for ::1 at 2015-02-12 16:48:39 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:48:39 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:48:39 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:48:39 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:49:59 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 724ms (Views: 722.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-abb633dbae29e0cd1379301fedc9465b.css?body=1" for ::1 at 2015-02-12 16:50:00 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:50:00 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:50:00 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:50:00 +0200
+
+
+Started GET "/assets/application-ab652b797459f16e6d609223b36dc6cf.css?body=1" for ::1 at 2015-02-12 16:50:00 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:50:14 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 806ms (Views: 805.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-0e64933ba6ddebfff2b8c9c47ec3e018.css?body=1" for ::1 at 2015-02-12 16:50:15 +0200
+
+
+Started GET "/assets/application-050e212a0d18f9ef510347c52fedc4a6.css?body=1" for ::1 at 2015-02-12 16:50:15 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:50:15 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:50:15 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:50:15 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:52:47 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 746ms (Views: 745.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-97bb70c3a39cb463fb4b470532a2b875.css?body=1" for ::1 at 2015-02-12 16:52:48 +0200
+
+
+Started GET "/assets/application-2cc1e177003e2a97a98520103dd0d173.css?body=1" for ::1 at 2015-02-12 16:52:48 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:52:48 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:52:48 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:52:48 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 16:53:24 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 785ms (Views: 783.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-cf10f100c5880dea2a52a32fd4721215.css?body=1" for ::1 at 2015-02-12 16:53:25 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 16:53:25 +0200
+
+
+Started GET "/assets/main-1fef30f4192eeb5028d7c68bb43e3825.css?body=1" for ::1 at 2015-02-12 16:53:25 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 16:53:25 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 16:53:25 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:01:52 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (7.1ms)
+Completed 500 Internal Server Error in 103ms
+
+ActionView::Template::Error (The line was indented 6 levels deeper than the previous line.
+  (in /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:27)):
+    2: html
+    3:   head
+    4:     title loop
+    5:     = stylesheet_link_tag "application", media: "all"
+    6:     = csrf_meta_tags 
+    7: 
+    8:   body
+  app/assets/stylesheets/main.sass:27
+  app/views/layouts/application.slim:5:in `_app_views_layouts_application_slim___2384555839125710295_45600360'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (19.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (10.2ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (58.8ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 17:02:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 676ms (Views: 675.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-56f3eb53ee7d1e2cfa5d78ef8a37fc49.css?body=1" for ::1 at 2015-02-12 17:02:17 +0200
+
+
+Started GET "/assets/application-eab106d795fe3c3799ba0e33d1039455.css?body=1" for ::1 at 2015-02-12 17:02:17 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:02:17 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:02:17 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:02:17 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:02:37 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 45ms (Views: 43.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-56f3eb53ee7d1e2cfa5d78ef8a37fc49.css?body=1" for ::1 at 2015-02-12 17:02:37 +0200
+
+
+Started GET "/assets/application-eab106d795fe3c3799ba0e33d1039455.css?body=1" for ::1 at 2015-02-12 17:02:37 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:02:37 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:02:37 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:02:37 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:03:44 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 769ms (Views: 767.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-bb9665a08544e947183d63d9ae2bec06.css?body=1" for ::1 at 2015-02-12 17:03:45 +0200
+
+
+Started GET "/assets/application-b5edb8538d05576d3941eae36309e4d6.css?body=1" for ::1 at 2015-02-12 17:03:45 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:03:45 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:03:45 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:03:45 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:04:05 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 770ms (Views: 769.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-d86bfd0e6e6541691a7b43334dbe24e2.css?body=1" for ::1 at 2015-02-12 17:04:05 +0200
+
+
+Started GET "/assets/application-7d823176d34bbd781fa8f149a1125a4b.css?body=1" for ::1 at 2015-02-12 17:04:05 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:04:06 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:04:06 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:04:06 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:04:31 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 42ms (Views: 41.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-d86bfd0e6e6541691a7b43334dbe24e2.css?body=1" for ::1 at 2015-02-12 17:04:31 +0200
+
+
+Started GET "/assets/application-7d823176d34bbd781fa8f149a1125a4b.css?body=1" for ::1 at 2015-02-12 17:04:31 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:04:31 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:04:31 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:04:31 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:07:00 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 766ms (Views: 765.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-c3731b668b858968862a7362bb928848.css?body=1" for ::1 at 2015-02-12 17:07:01 +0200
+
+
+Started GET "/assets/application-69c8f6013543b85947ae17a00eb79770.css?body=1" for ::1 at 2015-02-12 17:07:01 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:07:01 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:07:01 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:07:01 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:09:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (5.2ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 768ms (Views: 767.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-1880cbf9d9d51397e1174ab345acac4c.css?body=1" for ::1 at 2015-02-12 17:09:17 +0200
+
+
+Started GET "/assets/application-63903a6b2803cebbe0f9797018b9c9c3.css?body=1" for ::1 at 2015-02-12 17:09:17 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:09:17 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:09:17 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:09:17 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:12:46 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 808ms (Views: 806.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-53cbf3bf641e6068f93e2a14a2261b36.css?body=1" for ::1 at 2015-02-12 17:12:47 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:12:47 +0200
+
+
+Started GET "/assets/application-20d583ca39402b3ed55a3e4bdd662027.css?body=1" for ::1 at 2015-02-12 17:12:47 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:12:47 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:12:47 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:12:58 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 37ms (Views: 36.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-53cbf3bf641e6068f93e2a14a2261b36.css?body=1" for ::1 at 2015-02-12 17:12:58 +0200
+
+
+Started GET "/assets/application-20d583ca39402b3ed55a3e4bdd662027.css?body=1" for ::1 at 2015-02-12 17:12:58 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:12:58 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:12:58 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:12:58 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:13:07 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 807ms (Views: 805.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-20b04fcbea2e55d1149ac212cba13e27.css?body=1" for ::1 at 2015-02-12 17:13:08 +0200
+
+
+Started GET "/assets/application-09d8ed124d4a18beb2fb38097afc950a.css?body=1" for ::1 at 2015-02-12 17:13:08 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:13:08 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:13:08 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:13:08 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:13:15 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 712ms (Views: 711.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-6b4d0decf54cd3c50e953e2f87799b19.css?body=1" for ::1 at 2015-02-12 17:13:16 +0200
+
+
+Started GET "/assets/application-f45f64cddf002ca370e5cbee2714e249.css?body=1" for ::1 at 2015-02-12 17:13:16 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:13:16 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:13:16 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:13:16 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:13:29 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 749ms (Views: 748.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-513a1fc88456b54ce83a017a7accb661.css?body=1" for ::1 at 2015-02-12 17:13:30 +0200
+
+
+Started GET "/assets/application-94a4072bce404c6ede4831b03b39cf93.css?body=1" for ::1 at 2015-02-12 17:13:30 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:13:30 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:13:30 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:13:30 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:14:48 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 826ms (Views: 825.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-23c675fd37f541afdfa4136ce8ae8142.css?body=1" for ::1 at 2015-02-12 17:14:49 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:14:49 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:14:49 +0200
+
+
+Started GET "/assets/application-b7a7a1dc99befc128a5e03e501ff146d.css?body=1" for ::1 at 2015-02-12 17:14:49 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:14:49 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:17:28 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 767ms (Views: 766.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-6e2720af3632aaaf727227d9a7f07b51.css?body=1" for ::1 at 2015-02-12 17:17:29 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:17:29 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:17:29 +0200
+
+
+Started GET "/assets/application-30ca1c5b083ef09df7cdb13f8f1de673.css?body=1" for ::1 at 2015-02-12 17:17:29 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:17:29 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:17:35 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 32ms (Views: 31.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-6e2720af3632aaaf727227d9a7f07b51.css?body=1" for ::1 at 2015-02-12 17:17:35 +0200
+
+
+Started GET "/assets/application-30ca1c5b083ef09df7cdb13f8f1de673.css?body=1" for ::1 at 2015-02-12 17:17:35 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:17:35 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:17:35 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:17:35 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:20:07 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (6.7ms)
+WARNING on line 26 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:
+This selector doesn't have any properties and will not be rendered.
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 769ms (Views: 767.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-ac7d1505344c42eb112ced1f8f31f001.css?body=1" for ::1 at 2015-02-12 17:20:08 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:20:08 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:20:08 +0200
+
+
+Started GET "/assets/application-9040c95eb26d9b5dea0556b8f86db11d.css?body=1" for ::1 at 2015-02-12 17:20:08 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:20:08 +0200
+
+
+Started GET "/assets/img%20src=%22http://i.loopme.me/db35436199e510a0.png" for ::1 at 2015-02-12 17:20:08 +0200
+
+ActionController::RoutingError (No route matches [GET] "/assets/img%20src=%22http:/i.loopme.me/db35436199e510a0.png"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (0.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (98.7ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (2.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (162.8ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 17:20:37 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+WARNING on line 26 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass:
+This selector doesn't have any properties and will not be rendered.
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 736ms (Views: 734.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-54bb4dd3c56fd0721637ac7619c05514.css?body=1" for ::1 at 2015-02-12 17:20:38 +0200
+
+
+Started GET "/assets/application-c3010a76cb63a9a679ea057dcac70c01.css?body=1" for ::1 at 2015-02-12 17:20:38 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:20:38 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:20:38 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:20:38 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:21:52 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 803ms (Views: 801.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-6ab62366afdd83f2801e8c42ecd9d0d0.css?body=1" for ::1 at 2015-02-12 17:21:52 +0200
+
+
+Started GET "/assets/application-d95e1f63b12ed50ebbd620452260edfb.css?body=1" for ::1 at 2015-02-12 17:21:52 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:21:52 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:21:52 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:21:52 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:22:06 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 780ms (Views: 779.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-777a16fb5589501b7710ddd4a1093fcb.css?body=1" for ::1 at 2015-02-12 17:22:07 +0200
+
+
+Started GET "/assets/application-955c719ba8e300aceb7be9d2c0929cbd.css?body=1" for ::1 at 2015-02-12 17:22:07 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:22:07 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:22:07 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:22:07 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:22:17 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 14 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 757ms (Views: 755.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-1aa7e3a6e084c1af1c87640e338ef5ef.css?body=1" for ::1 at 2015-02-12 17:22:18 +0200
+
+
+Started GET "/assets/application-20a18b112ae717a40ee7ca0909177290.css?body=1" for ::1 at 2015-02-12 17:22:18 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:22:18 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:22:18 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:22:18 +0200
+
+
+Started GET "/" for ::1 at 2015-02-12 17:22:38 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 49ms (Views: 46.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-1aa7e3a6e084c1af1c87640e338ef5ef.css?body=1" for ::1 at 2015-02-12 17:22:38 +0200
+
+
+Started GET "/assets/application-20a18b112ae717a40ee7ca0909177290.css?body=1" for ::1 at 2015-02-12 17:22:38 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-12 17:22:38 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-12 17:22:38 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-12 17:22:38 +0200
