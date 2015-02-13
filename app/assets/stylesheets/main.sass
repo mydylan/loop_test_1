@@ -8,20 +8,23 @@ html
     width: 100%
     margin: 0
     padding: 0
-  
-  main
-    height: 1500px
     +background-image(radial-gradient(#404041, white))
+
+  main
+    min-height: 480px
+    height: 100%
+    width: 100%
+    position: relative
     .banner_image
-      width: 50%
-      height: 300px
+      width: 85%
+      height: 55%
       border-radius: 15px
       color: #F23005
-      border: 2px solid black
+      border: 2px solid white
       position: relative
-      margin: 92px auto 0
       background: url('http://i.loopme.me/db35436199e510a0.png') no-repeat
       background-size: 100% 100%
+      margin: 0 auto
 
       &::before
         content: ""
@@ -29,7 +32,7 @@ html
         background: url('http://i.loopme.me/db35436199e510a0.png') no-repeat
         background-size: 100% 100%
         width: 100%
-        height: 300px
+        height: 100%
         border-radius: 15px
         top: 100%
         +transform(rotateX(180deg))
