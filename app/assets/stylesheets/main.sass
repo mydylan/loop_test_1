@@ -15,17 +15,29 @@ html
     height: 100%
     width: 100%
     position: relative
+    @media screen and (orientation: landscape)
+      min-height: 320px
+    .content_banner
+      height: 100%
+      width: 100%
+      position: relative
+      display: flex
+      +align-items(center)
+      @media screen and (orientation: landscape)
+        display: block
     .banner_image
-      width: 85%
-      height: 55%
+      +flex(auto)
+      height: 52%
       border-radius: 15px
       color: #F23005
       border: 2px solid white
       position: relative
       background: url('http://i.loopme.me/db35436199e510a0.png') no-repeat
       background-size: 100% 100%
-      margin: 0 auto
-
+      margin: 0 33px
+      @media screen and (orientation: landscape)
+        height: 55%
+        margin: 45px 80px 0
       &::before
         content: ""
         display: block
@@ -40,23 +52,24 @@ html
         opacity: 0.4
         border-radius: 15px
 
-
-
-      // -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(250, 250, 250, 0.1)))
-      // img
-      //   width: 100%
-      //   height: 100%
-      //   border-radius: 15px
-
-
     .download
-      width: 90%
-      border-radius: 15px
+      width: 79%
+      height: 7%
+      border-radius: 8px
+      border: 1px solid black
       text-align: center
       position: relative
-      background: #FF2600
+      background: #00AF33
       color: #fff
-      font-size: 30px
-      margin: 50px auto
+      font-size: 23px
+      line-height: 33px
+      margin: -33% auto
+      @media screen and (orientation: landscape)
+        width: 66%
+        height: 10%
+        margin: -25% auto
+
+
+
 
 

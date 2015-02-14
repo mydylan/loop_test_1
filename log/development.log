@@ -7050,3 +7050,3246 @@ Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 
 
 
 Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-13 17:14:57 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:41:20 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (37.0ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 2136ms (Views: 2113.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:41:23 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 61ms (Views: 60.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:23 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:23 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:23 +0200
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:23 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:23 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:23 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:41:41 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 63ms (Views: 62.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:41 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:41 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:41 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:41 +0200
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:41 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:41 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:41:43 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 63ms (Views: 62.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:43 +0200
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:43 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:43 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:43 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:43 +0200
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:43 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:41:44 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 106ms (Views: 104.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:44 +0200
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:44 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:44 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:44 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:44 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:44 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:41:55 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 71ms (Views: 70.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:55 +0200
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:55 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:55 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:55 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:55 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:55 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:41:56 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 69ms (Views: 68.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:56 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:56 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:56 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:56 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:56 +0200
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:56 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:41:56 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 65ms (Views: 63.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:57 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:57 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:57 +0200
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:57 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:57 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:57 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:41:58 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 61ms (Views: 60.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:58 +0200
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:58 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:58 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:58 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:41:58 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:41:58 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:42:02 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 70ms (Views: 69.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:02 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:02 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:02 +0200
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:02 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:02 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:02 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:42:04 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 77ms (Views: 75.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:04 +0200
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:04 +0200
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:04 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:04 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:04 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:04 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:42:10 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 67ms (Views: 66.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:10 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:10 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:10 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:10 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:10 +0200
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:10 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:42:12 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 65ms (Views: 63.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-a91e246e8e30fbad12031f86d1843d3d.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:12 +0200
+
+
+Started GET "/assets/application-7ff1431bdb0df3949d2503dcc91b00e2.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:12 +0200
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:42:12 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:12 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:12 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:42:12 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (6.1ms)
+Completed 200 OK in 133ms (Views: 132.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:16 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:16 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:16 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:16 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:16 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:16 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:26 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 83ms (Views: 82.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:26 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:26 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:26 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:26 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:26 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:26 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:27 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 64ms (Views: 62.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:28 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:28 +0200
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:28 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:28 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:28 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:28 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:36 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 65ms (Views: 63.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:36 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:36 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:36 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:36 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:36 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:36 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:45 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 67ms (Views: 66.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:45 +0200
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:45 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:45 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:45 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:45 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:45 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:48 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 60ms (Views: 59.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:48 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:48 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:48 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:48 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:48 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:48 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:54 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 69ms (Views: 68.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:54 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:54 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:54 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:54 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:54 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:54 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:55 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.2ms)
+Completed 200 OK in 71ms (Views: 69.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:55 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:55 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:55 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:55 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:55 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:55 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:56 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 64ms (Views: 63.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:56 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:56 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:56 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:56 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:56 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:56 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:57 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 62ms (Views: 60.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:57 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:57 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:57 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:57 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:57 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:57 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:58 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 66ms (Views: 64.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:58 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:58 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:58 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:58 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:58 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:58 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:44:59 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 57ms (Views: 56.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:59 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:59 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:59 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:44:59 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:59 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:44:59 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:50:42 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 75ms (Views: 74.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:50:42 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:50:42 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:50:42 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:50:42 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:50:42 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:50:42 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:53:36 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 80ms (Views: 78.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:53:36 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:53:36 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:53:36 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:53:36 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:53:36 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:53:36 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:53:37 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 64ms (Views: 63.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:53:37 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:53:37 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:53:37 +0200
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:53:37 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:53:37 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:53:37 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:53:38 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 63ms (Views: 62.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:53:38 +0200
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-02-14 13:53:38 +0200
+
+
+Started GET "/assets/main-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-14 13:53:38 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:53:38 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:53:38 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:53:38 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:54:18 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 607ms (Views: 606.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-2849e59aa2e1efc166dd04bb61d7fdd3.css?body=1" for 127.0.0.1 at 2015-02-14 13:54:19 +0200
+
+
+Started GET "/assets/application-675371e38562fa3960c27f9dbb05415a.css?body=1" for 127.0.0.1 at 2015-02-14 13:54:19 +0200
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:54:19 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:54:19 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:54:19 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:54:19 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:54:36 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (9.0ms)
+Completed 200 OK in 94ms (Views: 93.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-95f38adb9a2951a90f95253951c381fe.css?body=1" for 127.0.0.1 at 2015-02-14 13:54:36 +0200
+
+
+Started GET "/assets/header-2849e59aa2e1efc166dd04bb61d7fdd3.css?body=1" for 127.0.0.1 at 2015-02-14 13:54:36 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:54:36 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:54:36 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:54:36 +0200
+
+
+Started GET "/assets/application-675371e38562fa3960c27f9dbb05415a.css?body=1" for 127.0.0.1 at 2015-02-14 13:54:36 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:56:52 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (7.7ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 692ms (Views: 691.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-392f3b14252888c9790a4d665613b110.css?body=1" for 127.0.0.1 at 2015-02-14 13:56:53 +0200
+
+
+Started GET "/assets/header-2849e59aa2e1efc166dd04bb61d7fdd3.css?body=1" for 127.0.0.1 at 2015-02-14 13:56:53 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:56:53 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:56:53 +0200
+
+
+Started GET "/assets/application-e39bfe0afbfa67f27e49a670cfefd5e1.css?body=1" for 127.0.0.1 at 2015-02-14 13:56:53 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:56:53 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:57:39 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 610ms (Views: 608.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-2f4a7c8043f164b28ea2085abc184e21.css?body=1" for 127.0.0.1 at 2015-02-14 13:57:40 +0200
+
+
+Started GET "/assets/application-82991e67c6af0ca4df6be7182e784f39.css?body=1" for 127.0.0.1 at 2015-02-14 13:57:40 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:57:40 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:57:40 +0200
+
+
+Started GET "/assets/header-2849e59aa2e1efc166dd04bb61d7fdd3.css?body=1" for 127.0.0.1 at 2015-02-14 13:57:40 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:57:40 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 13:57:54 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (8.1ms)
+Completed 200 OK in 79ms (Views: 78.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-2849e59aa2e1efc166dd04bb61d7fdd3.css?body=1" for 127.0.0.1 at 2015-02-14 13:57:54 +0200
+
+
+Started GET "/assets/main-2f4a7c8043f164b28ea2085abc184e21.css?body=1" for 127.0.0.1 at 2015-02-14 13:57:54 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 13:57:54 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 13:57:54 +0200
+
+
+Started GET "/assets/application-82991e67c6af0ca4df6be7182e784f39.css?body=1" for 127.0.0.1 at 2015-02-14 13:57:54 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 13:57:54 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:08:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (7.6ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 629ms (Views: 628.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-e613917ca063074cad861c9e42de81fe.css?body=1" for 127.0.0.1 at 2015-02-14 14:08:17 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:08:17 +0200
+
+
+Started GET "/assets/header-2849e59aa2e1efc166dd04bb61d7fdd3.css?body=1" for 127.0.0.1 at 2015-02-14 14:08:17 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:08:17 +0200
+
+
+Started GET "/assets/main-59717930355e98d54122cd3a332654ff.css?body=1" for 127.0.0.1 at 2015-02-14 14:08:17 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:08:17 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:09:15 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 644ms (Views: 642.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-a4f59d079f442f01c4f7472ed14a9096.css?body=1" for 127.0.0.1 at 2015-02-14 14:09:16 +0200
+
+
+Started GET "/assets/application-59a693ecd093d24243687206dcc3c27a.css?body=1" for 127.0.0.1 at 2015-02-14 14:09:16 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:09:16 +0200
+
+
+Started GET "/assets/header-2849e59aa2e1efc166dd04bb61d7fdd3.css?body=1" for 127.0.0.1 at 2015-02-14 14:09:16 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:09:16 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:09:16 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:11:20 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 581ms (Views: 579.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-2849e59aa2e1efc166dd04bb61d7fdd3.css?body=1" for 127.0.0.1 at 2015-02-14 14:11:20 +0200
+
+
+Started GET "/assets/main-05ce522dc612e0c178167a91e5fa3921.css?body=1" for 127.0.0.1 at 2015-02-14 14:11:20 +0200
+
+
+Started GET "/assets/application-38b2cd8ca2c97b631b4c1d448f624631.css?body=1" for 127.0.0.1 at 2015-02-14 14:11:20 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:11:20 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:11:20 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:11:20 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:12:51 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (7.9ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 709ms (Views: 707.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-1d7b7680b156e19c0e1bb2116dff2c8d.css?body=1" for 127.0.0.1 at 2015-02-14 14:12:52 +0200
+
+
+Started GET "/assets/header-2849e59aa2e1efc166dd04bb61d7fdd3.css?body=1" for 127.0.0.1 at 2015-02-14 14:12:52 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:12:52 +0200
+
+
+Started GET "/assets/main-a7e107a010547264be0805457f960150.css?body=1" for 127.0.0.1 at 2015-02-14 14:12:52 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:12:52 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:12:52 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:14:45 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 551ms (Views: 550.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-2849e59aa2e1efc166dd04bb61d7fdd3.css?body=1" for 127.0.0.1 at 2015-02-14 14:14:46 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:14:46 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:14:46 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:14:46 +0200
+
+
+Started GET "/assets/main-8e159f5ec2dd8e094b15e9e9df853d3d.css?body=1" for 127.0.0.1 at 2015-02-14 14:14:46 +0200
+
+
+Started GET "/assets/application-6243047860ab5af4c515c5ccab8aa84e.css?body=1" for 127.0.0.1 at 2015-02-14 14:14:46 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:20:42 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 673ms (Views: 672.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-db1960796c9f615a7bf2f56794ee705e.css?body=1" for 127.0.0.1 at 2015-02-14 14:20:42 +0200
+
+
+Started GET "/assets/application-fd3b6160d9e03cf5d49104942ddd2fc9.css?body=1" for 127.0.0.1 at 2015-02-14 14:20:42 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:20:43 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:20:43 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:20:43 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:20:43 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:22:28 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 117ms (Views: 116.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-df5e65b0c6f38438e153f3e030dcf07b.css?body=1" for 127.0.0.1 at 2015-02-14 14:22:28 +0200
+
+
+Started GET "/assets/application-736ad22e081746fdb26c91dfdcf6c570.css?body=1" for 127.0.0.1 at 2015-02-14 14:22:28 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:22:28 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:22:28 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:22:28 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:22:28 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:23:06 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 61ms
+
+ActionView::Template::Error (Undefined mixin 'background-image'.
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/header.sass:5)):
+     5:     meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"
+     6:     meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"
+     7:     title loop
+     8:     = stylesheet_link_tag "application", media: "all"
+     9:     = csrf_meta_tags 
+    10: 
+    11:   body
+  app/assets/stylesheets/header.sass:5:in `background-image'
+  app/assets/stylesheets/header.sass:5
+  app/views/layouts/application.slim:8:in `_app_views_layouts_application_slim__460259847__634002268'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (19.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (9.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (2.7ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (100.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:23:39 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 20ms
+
+ActionView::Template::Error (Undefined mixin 'background-image'.
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/header.sass:5)):
+     5:     meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"
+     6:     meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"
+     7:     title loop
+     8:     = stylesheet_link_tag "application", media: "all"
+     9:     = csrf_meta_tags 
+    10: 
+    11:   body
+  app/assets/stylesheets/header.sass:5:in `background-image'
+  app/assets/stylesheets/header.sass:5
+  app/views/layouts/application.slim:8:in `_app_views_layouts_application_slim__460259847__634002268'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (23.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.8ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (57.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:24:24 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 573ms (Views: 571.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-063e8a3b0e8af74a215bf4728b27cec0.css?body=1" for 127.0.0.1 at 2015-02-14 14:24:24 +0200
+
+
+Started GET "/assets/header-bd4dd5c7fff866a148f8e3ecbf3b7a42.css?body=1" for 127.0.0.1 at 2015-02-14 14:24:24 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:24:24 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:24:24 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:24:24 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:24:24 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:24:29 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 65ms (Views: 64.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:24:29 +0200
+
+
+Started GET "/assets/header-bd4dd5c7fff866a148f8e3ecbf3b7a42.css?body=1" for 127.0.0.1 at 2015-02-14 14:24:29 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:24:29 +0200
+
+
+Started GET "/assets/application-063e8a3b0e8af74a215bf4728b27cec0.css?body=1" for 127.0.0.1 at 2015-02-14 14:24:29 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:24:29 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:24:29 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:26:52 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (8.9ms)
+Completed 500 Internal Server Error in 30ms
+
+ActionView::Template::Error (Inconsistent indentation: "  \t" was used for indentation, but the rest of the document was indented using 2 spaces.
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/header.sass:8)):
+     5:     meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"
+     6:     meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"
+     7:     title loop
+     8:     = stylesheet_link_tag "application", media: "all"
+     9:     = csrf_meta_tags 
+    10: 
+    11:   body
+  app/assets/stylesheets/header.sass:8
+  app/views/layouts/application.slim:8:in `_app_views_layouts_application_slim__460259847__634002268'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (17.0ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (49.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:27:17 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 651ms (Views: 649.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:27:17 +0200
+
+
+Started GET "/assets/application-cd2082928a1bfb12b9066071b8999bf4.css?body=1" for 127.0.0.1 at 2015-02-14 14:27:17 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:27:17 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:27:17 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:27:17 +0200
+
+
+Started GET "/assets/header-1158edd6a4c65e8cfa7c71c5a7ea1d38.css?body=1" for 127.0.0.1 at 2015-02-14 14:27:17 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:27:32 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 683ms (Views: 681.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-cadf2d42f303d62ac7efeb21af2c4121.css?body=1" for 127.0.0.1 at 2015-02-14 14:27:32 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:27:32 +0200
+
+
+Started GET "/assets/application-4e077b02bab5d10d33182cb9a635234e.css?body=1" for 127.0.0.1 at 2015-02-14 14:27:32 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:27:32 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:27:32 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:27:32 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:27:50 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 593ms (Views: 592.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-04267da17d4cd51bb35cfeb4c56cee55.css?body=1" for 127.0.0.1 at 2015-02-14 14:27:50 +0200
+
+
+Started GET "/assets/application-bb14a7bf37f97836861c8db3cd9cb07a.css?body=1" for 127.0.0.1 at 2015-02-14 14:27:50 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:27:51 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:27:51 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:27:51 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:27:51 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:28:23 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+WARNING on line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/header.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Completed 200 OK in 635ms (Views: 633.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-665c0643226f79d28f8060de8825ef57.css?body=1" for 127.0.0.1 at 2015-02-14 14:28:24 +0200
+
+
+Started GET "/assets/application-97a10a5103d387a62dd3a2a3bb9487c6.css?body=1" for 127.0.0.1 at 2015-02-14 14:28:24 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:28:24 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:28:24 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:28:24 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:28:24 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:28:58 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+WARNING on line 12 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/header.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Completed 200 OK in 596ms (Views: 594.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-1e129ad68e65c08cf95efc314a6d3475.css?body=1" for 127.0.0.1 at 2015-02-14 14:28:58 +0200
+
+
+Started GET "/assets/application-1b2ae2504238a182ba38cfa8f80923f5.css?body=1" for 127.0.0.1 at 2015-02-14 14:28:58 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:28:58 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:28:58 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:28:58 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:28:58 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:35:36 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+WARNING on line 13 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/header.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Completed 200 OK in 660ms (Views: 659.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-1ffece189e9c7a8f95b6021009aeed61.css?body=1" for 127.0.0.1 at 2015-02-14 14:35:37 +0200
+
+
+Started GET "/assets/application-ad7a94612df37ec95a52028fb3938acf.css?body=1" for 127.0.0.1 at 2015-02-14 14:35:37 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:35:37 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:35:37 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:35:37 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:35:37 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 14:35:37 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:36:40 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 634ms (Views: 633.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-eaa9490c1d1e53234819364f16799681.css?body=1" for 127.0.0.1 at 2015-02-14 14:36:41 +0200
+
+
+Started GET "/assets/application-c788960871be86d2ad10b7815c4f27a9.css?body=1" for 127.0.0.1 at 2015-02-14 14:36:41 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:36:41 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:36:41 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:36:41 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:36:41 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 14:36:41 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:38:56 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 618ms (Views: 617.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 14:38:57 +0200
+
+
+Started GET "/assets/application-a827fca6d7dd6e5d75f19a597189d346.css?body=1" for 127.0.0.1 at 2015-02-14 14:38:57 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:38:57 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:38:57 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:38:57 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:38:57 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 14:38:57 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:41:12 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 51ms
+
+ActionView::Template::Error (Undefined mixin 'background-image'.
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:7)):
+     5:     meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"
+     6:     meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"
+     7:     title loop
+     8:     = stylesheet_link_tag "application", media: "all"
+     9:     = csrf_meta_tags 
+    10: 
+    11:   body
+  app/assets/stylesheets/footer.sass:7:in `background-image'
+  app/assets/stylesheets/footer.sass:7
+  app/views/layouts/application.slim:8:in `_app_views_layouts_application_slim__460259847__634002268'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (19.7ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (52.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:41:34 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 604ms (Views: 603.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-84bd8c3bc6594d8df9a023a88cbf77c9.css?body=1" for 127.0.0.1 at 2015-02-14 14:41:35 +0200
+
+
+Started GET "/assets/application-0d9c66d29a725a0ab081cd99c84d60d0.css?body=1" for 127.0.0.1 at 2015-02-14 14:41:35 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 14:41:35 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:41:35 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:41:35 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:41:35 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:41:35 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:41:51 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 614ms (Views: 613.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-f9f4f54eb09d0b701dcd0d1f2c980d7a.css?body=1" for 127.0.0.1 at 2015-02-14 14:41:51 +0200
+
+
+Started GET "/assets/application-a4d43cdef6266ae5a43c2b4688c885e8.css?body=1" for 127.0.0.1 at 2015-02-14 14:41:51 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:41:51 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 14:41:51 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:41:51 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:41:51 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:41:51 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:45:28 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (9.4ms)
+Completed 200 OK in 634ms (Views: 633.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-67e2699ae07b902bb6928fe4bfb1a599.css?body=1" for 127.0.0.1 at 2015-02-14 14:45:28 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:45:28 +0200
+
+
+Started GET "/assets/application-306fe247b5b62ba98aa092b072e1707a.css?body=1" for 127.0.0.1 at 2015-02-14 14:45:28 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:45:28 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 14:45:28 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:45:28 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:45:28 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:45:55 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (8.9ms)
+Completed 200 OK in 93ms (Views: 91.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 14:45:55 +0200
+
+
+Started GET "/assets/footer-67e2699ae07b902bb6928fe4bfb1a599.css?body=1" for 127.0.0.1 at 2015-02-14 14:45:55 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:45:55 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:45:55 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:45:55 +0200
+
+
+Started GET "/assets/application-306fe247b5b62ba98aa092b072e1707a.css?body=1" for 127.0.0.1 at 2015-02-14 14:45:55 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:45:55 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:49:33 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 662ms (Views: 661.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-2e1f8406ebc6d73dd8bab8be199e8fe6.css?body=1" for 127.0.0.1 at 2015-02-14 14:49:33 +0200
+
+
+Started GET "/assets/application-3dcdaab4a479176a334a7c9f47d5f275.css?body=1" for 127.0.0.1 at 2015-02-14 14:49:33 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:49:33 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 14:49:33 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:49:33 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:49:33 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:49:33 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:49:45 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 666ms (Views: 665.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-6ab9bb7da91e77ccc42f5f491755d6b7.css?body=1" for 127.0.0.1 at 2015-02-14 14:49:46 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 14:49:46 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:49:46 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:49:46 +0200
+
+
+Started GET "/assets/application-5ece8f4ac53b9cbfbbd99facff4fdcfe.css?body=1" for 127.0.0.1 at 2015-02-14 14:49:46 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:49:46 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:49:46 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 14:50:00 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 90ms (Views: 88.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-6ab9bb7da91e77ccc42f5f491755d6b7.css?body=1" for 127.0.0.1 at 2015-02-14 14:50:00 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 14:50:00 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 14:50:00 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 14:50:00 +0200
+
+
+Started GET "/assets/application-5ece8f4ac53b9cbfbbd99facff4fdcfe.css?body=1" for 127.0.0.1 at 2015-02-14 14:50:00 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 14:50:00 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 14:50:00 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:01:10 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+WARNING on line 21 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 22 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 23 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Completed 200 OK in 688ms (Views: 686.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:01:11 +0200
+
+
+Started GET "/assets/footer-a681902fa039167b464a75c994884594.css?body=1" for 127.0.0.1 at 2015-02-14 15:01:11 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:01:11 +0200
+
+
+Started GET "/assets/application-adfeea3d8da63766c6473cf3dfc602c1.css?body=1" for 127.0.0.1 at 2015-02-14 15:01:11 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:01:11 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:01:11 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:01:11 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:01:11 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:01:28 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+WARNING on line 22 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 23 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 24 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Completed 200 OK in 608ms (Views: 606.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-89548fc55346fcf10b0f15f03b8debe0.css?body=1" for 127.0.0.1 at 2015-02-14 15:01:29 +0200
+
+
+Started GET "/assets/application-8592222a86f4983859dac5dfe9fa65d0.css?body=1" for 127.0.0.1 at 2015-02-14 15:01:29 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:01:29 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:01:29 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:01:29 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:01:29 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:01:29 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:01:29 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:02:07 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+WARNING on line 22 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 23 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 24 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Completed 200 OK in 656ms (Views: 655.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-d7ee192a26ed925a6eab68546c5189b4.css?body=1" for 127.0.0.1 at 2015-02-14 15:02:07 +0200
+
+
+Started GET "/assets/application-680c59f551431b6c8399c3af098fadeb.css?body=1" for 127.0.0.1 at 2015-02-14 15:02:07 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:02:08 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:02:08 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:02:08 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:02:08 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:02:08 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:02:08 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:04:13 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 628ms (Views: 627.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-014b23a6888cb01d5a379857e64ed87b.css?body=1" for 127.0.0.1 at 2015-02-14 15:04:14 +0200
+
+
+Started GET "/assets/application-cdc00f1b29ceef0adaf125bed13bd2c9.css?body=1" for 127.0.0.1 at 2015-02-14 15:04:14 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:04:14 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:04:14 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:04:14 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:04:14 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:04:14 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:04:14 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:04:28 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 660ms (Views: 659.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-85e080cafd78fdd4e9dc975d69a7b8be.css?body=1" for 127.0.0.1 at 2015-02-14 15:04:29 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:04:29 +0200
+
+
+Started GET "/assets/footer-444809c32a2e1c5d0860ba87f5b7ec94.css?body=1" for 127.0.0.1 at 2015-02-14 15:04:29 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:04:29 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:04:29 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:04:29 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:04:29 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:04:29 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:05:53 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 633ms (Views: 632.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-6f5c1c9e2031e0033fa91c33329bc8d7.css?body=1" for 127.0.0.1 at 2015-02-14 15:05:54 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:05:54 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:05:54 +0200
+
+
+Started GET "/assets/application-abdc3cfacc00aa9af34b12fbf2be53dd.css?body=1" for 127.0.0.1 at 2015-02-14 15:05:54 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:05:54 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:05:54 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:05:54 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:05:54 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:06:51 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 637ms (Views: 636.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-68fb1517e390dffd40215ef693696e6f.css?body=1" for 127.0.0.1 at 2015-02-14 15:06:52 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:06:52 +0200
+
+
+Started GET "/assets/application-a2da62fdea368cb550a0c8b090efc73d.css?body=1" for 127.0.0.1 at 2015-02-14 15:06:52 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:06:52 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:06:52 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:06:52 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:06:52 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:06:52 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:07:06 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 627ms (Views: 625.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-5e26aca88e57baf561926f81411d4f04.css?body=1" for 127.0.0.1 at 2015-02-14 15:07:07 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:07:07 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:07:07 +0200
+
+
+Started GET "/assets/application-b591d9c625e4a9ee690ad6ba37da1e93.css?body=1" for 127.0.0.1 at 2015-02-14 15:07:07 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:07:07 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:07:07 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:07:07 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:07:07 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:07:40 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 664ms (Views: 662.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-f6f34d5066821e6c14b75b35f4d8db49.css?body=1" for 127.0.0.1 at 2015-02-14 15:07:40 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:07:40 +0200
+
+
+Started GET "/assets/application-037389df02992b60131e757652313927.css?body=1" for 127.0.0.1 at 2015-02-14 15:07:40 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:07:40 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:07:40 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:07:40 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:07:40 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:07:41 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:08:05 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 634ms (Views: 633.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-527c2456036061a9b167e983d5436991.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:06 +0200
+
+
+Started GET "/assets/application-138785cd557ab7cb1ac9dc0d59daf240.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:06 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:08:06 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:06 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:08:06 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:06 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:08:06 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:08:06 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:08:17 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 630ms (Views: 628.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-739fb48dc7b9f7feaa5edef6a445192f.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:18 +0200
+
+
+Started GET "/assets/application-dea7482abf123da78dddddb9591f82e0.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:18 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:18 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:18 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:08:18 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:08:18 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:08:18 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:08:18 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:08:23 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 625ms (Views: 623.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-dbde94c25a858e0eefa61698b7d34616.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:24 +0200
+
+
+Started GET "/assets/footer-f847e0bd9ef784366d8e58af4d4a701c.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:24 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:08:24 +0200
+
+
+Started GET "/assets/main-d46e899c66f1044e2ed66e2b83a6a323.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:24 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:08:24 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:08:24 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:08:24 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:08:24 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:13:49 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 1142ms (Views: 1141.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-f9d0e8d0ea414e9b4f8194ad1688f932.css?body=1" for 127.0.0.1 at 2015-02-14 15:13:50 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:13:50 +0200
+
+
+Started GET "/assets/main-391fdb8b9afaaaaa16522f36d50271fe.css?body=1" for 127.0.0.1 at 2015-02-14 15:13:50 +0200
+
+
+Started GET "/assets/application-ad5042165bba5075a0e8a6543ae406d7.css?body=1" for 127.0.0.1 at 2015-02-14 15:13:50 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:13:50 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:13:50 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:13:50 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:13:50 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:14:25 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 733ms (Views: 732.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-2fc4ba00355c20210063310a4b93f440.css?body=1" for 127.0.0.1 at 2015-02-14 15:14:26 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:14:26 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:14:26 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:14:26 +0200
+
+
+Started GET "/assets/application-392b223a48b051283315e876a0a47419.css?body=1" for 127.0.0.1 at 2015-02-14 15:14:26 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:14:26 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 15:14:26 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:14:26 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:14:35 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 75ms (Views: 74.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:14:35 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:14:35 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:14:35 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:14:35 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 15:14:35 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:14:35 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:14:40 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:14:46 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 78ms (Views: 77.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-f9d0e8d0ea414e9b4f8194ad1688f932.css?body=1" for 127.0.0.1 at 2015-02-14 15:14:46 +0200
+
+
+Started GET "/assets/application-392b223a48b051283315e876a0a47419.css?body=1" for 127.0.0.1 at 2015-02-14 15:14:46 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:14:46 +0200
+
+
+Started GET "/assets/main-2fc4ba00355c20210063310a4b93f440.css?body=1" for 127.0.0.1 at 2015-02-14 15:14:46 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:14:46 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:14:46 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:14:46 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:15:15 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:16:20 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 724ms (Views: 723.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:16:21 +0200
+
+
+Started GET "/assets/main-2fc4ba00355c20210063310a4b93f440.css?body=1" for 127.0.0.1 at 2015-02-14 15:16:21 +0200
+
+
+Started GET "/assets/application-a72c14a40df152dd7ba7210aab5fe3a9.css?body=1" for 127.0.0.1 at 2015-02-14 15:16:21 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:16:21 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:16:21 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:16:21 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:16:21 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:16:21 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:32:52 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 642ms (Views: 640.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-f3f4c758d32818e05cc4449754263407.css?body=1" for 127.0.0.1 at 2015-02-14 15:32:53 +0200
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:32:53 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:32:53 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:32:53 +0200
+
+
+Started GET "/assets/main-66051c6ac77e2564621b7c5a98480dbd.css?body=1" for 127.0.0.1 at 2015-02-14 15:32:53 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:32:53 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:32:53 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:33:42 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 71ms (Views: 70.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:42 +0200
+
+
+Started GET "/assets/main-66051c6ac77e2564621b7c5a98480dbd.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:42 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:42 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:33:42 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:33:42 +0200
+
+
+Started GET "/assets/application-f3f4c758d32818e05cc4449754263407.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:42 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:33:42 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:33:43 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 69ms (Views: 68.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:43 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:43 +0200
+
+
+Started GET "/assets/application-f3f4c758d32818e05cc4449754263407.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:43 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:33:43 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:33:43 +0200
+
+
+Started GET "/assets/main-66051c6ac77e2564621b7c5a98480dbd.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:43 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:33:43 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:33:50 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 102ms (Views: 100.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:50 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:33:50 +0200
+
+
+Started GET "/assets/main-66051c6ac77e2564621b7c5a98480dbd.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:50 +0200
+
+
+Started GET "/assets/application-f3f4c758d32818e05cc4449754263407.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:50 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:33:50 +0200
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:33:50 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:33:50 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:35:07 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 684ms (Views: 682.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:35:08 +0200
+
+
+Started GET "/assets/application-469b1d55491a6801cf70ab9295ca3611.css?body=1" for 127.0.0.1 at 2015-02-14 15:35:08 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:35:08 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:35:08 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:35:08 +0200
+
+
+Started GET "/assets/main-6b094f8eb5c8f364fb7832635bb02271.css?body=1" for 127.0.0.1 at 2015-02-14 15:35:08 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:35:08 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:35:19 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 629ms (Views: 628.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-a7285193c41655a59ce2127ff2c1129a.css?body=1" for 127.0.0.1 at 2015-02-14 15:35:20 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:35:20 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:35:20 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:35:20 +0200
+
+
+Started GET "/assets/application-357d518fb675d9e53251427264553208.css?body=1" for 127.0.0.1 at 2015-02-14 15:35:20 +0200
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:35:20 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:35:20 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 15:36:14 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:36:30 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 83ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:36:30 +0200
+
+
+Started GET "/assets/main-a7285193c41655a59ce2127ff2c1129a.css?body=1" for 127.0.0.1 at 2015-02-14 15:36:30 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:36:30 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:36:30 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:36:30 +0200
+
+
+Started GET "/assets/application-357d518fb675d9e53251427264553208.css?body=1" for 127.0.0.1 at 2015-02-14 15:36:30 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:36:30 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:37:03 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 78ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:03 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:03 +0200
+
+
+Started GET "/assets/application-357d518fb675d9e53251427264553208.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:03 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:03 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:03 +0200
+
+
+Started GET "/assets/main-a7285193c41655a59ce2127ff2c1129a.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:03 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:03 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:37:07 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 78ms (Views: 77.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:08 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:08 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:08 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:08 +0200
+
+
+Started GET "/assets/main-a7285193c41655a59ce2127ff2c1129a.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:08 +0200
+
+
+Started GET "/assets/application-357d518fb675d9e53251427264553208.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:08 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:08 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:37:12 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 88ms (Views: 87.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:12 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:12 +0200
+
+
+Started GET "/assets/main-a7285193c41655a59ce2127ff2c1129a.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:12 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:12 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:12 +0200
+
+
+Started GET "/assets/application-357d518fb675d9e53251427264553208.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:12 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:12 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:37:17 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 76ms (Views: 74.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:17 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:17 +0200
+
+
+Started GET "/assets/main-a7285193c41655a59ce2127ff2c1129a.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:17 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:17 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:17 +0200
+
+
+Started GET "/assets/application-357d518fb675d9e53251427264553208.css?body=1" for 127.0.0.1 at 2015-02-14 15:37:17 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:37:17 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:40:31 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 640ms (Views: 639.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:40:31 +0200
+
+
+Started GET "/assets/main-2c5babe4d2c63ac709604448dee659c9.css?body=1" for 127.0.0.1 at 2015-02-14 15:40:31 +0200
+
+
+Started GET "/assets/application-29c0c07fcf51127f51be33a96bc87cbc.css?body=1" for 127.0.0.1 at 2015-02-14 15:40:31 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:40:32 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:40:32 +0200
+
+
+Started GET "/assets/header-42733601ddfe434200bc90455fcd8b74.css?body=1" for 127.0.0.1 at 2015-02-14 15:40:32 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:40:32 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:46:22 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:50:26 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+WARNING on line 66 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass:
+This selector doesn't have any properties and will not be rendered.
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 500 Internal Server Error in 763ms
+
+ActionView::Template::Error (Invalid CSS after "display": expected selector, was "; block"
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass:66)):
+     5:     meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"
+     6:     meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"
+     7:     title loop
+     8:     = stylesheet_link_tag "application", media: "all"
+     9:     = csrf_meta_tags 
+    10: 
+    11:   body
+  app/assets/stylesheets/main.sass:66
+  app/views/layouts/application.slim:8:in `_app_views_layouts_application_slim__460259847__634002268'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (27.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (11.8ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (2.0ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (72.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:50:36 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 668ms (Views: 666.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-ee9a22a41cc4d463b0712210c5575dfb.css?body=1" for 127.0.0.1 at 2015-02-14 15:50:37 +0200
+
+
+Started GET "/assets/main-e2301845c75a88b0897db2d964f4383d.css?body=1" for 127.0.0.1 at 2015-02-14 15:50:37 +0200
+
+
+Started GET "/assets/application-9671c1d780e11a3fd4b139ae5f3b6f51.css?body=1" for 127.0.0.1 at 2015-02-14 15:50:37 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:50:37 +0200
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:50:37 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:50:37 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:50:37 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 15:50:37 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:51:14 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 653ms (Views: 651.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:15 +0200
+
+
+Started GET "/assets/main-29a6be46eb9bfd9e722b4bbe8d852369.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:15 +0200
+
+
+Started GET "/assets/header-ee9a22a41cc4d463b0712210c5575dfb.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:15 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:15 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:15 +0200
+
+
+Started GET "/assets/application-c00404d6561b554852cf70b7f1d24b46.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:15 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:15 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:51:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 108ms (Views: 107.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:16 +0200
+
+
+Started GET "/assets/header-ee9a22a41cc4d463b0712210c5575dfb.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:16 +0200
+
+
+Started GET "/assets/application-c00404d6561b554852cf70b7f1d24b46.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:16 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:16 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:16 +0200
+
+
+Started GET "/assets/main-29a6be46eb9bfd9e722b4bbe8d852369.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:16 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:16 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:51:26 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 776ms (Views: 774.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-2b074135b40c7a7d327db9c60fe23316.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:27 +0200
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:27 +0200
+
+
+Started GET "/assets/application-75b26af7e8627a1476186e57e90ca5c0.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:27 +0200
+
+
+Started GET "/assets/header-ee9a22a41cc4d463b0712210c5575dfb.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:27 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:27 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:27 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:27 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:51:40 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 657ms (Views: 655.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-7088039d5f71a940e285044176732143.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:41 +0200
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:41 +0200
+
+
+Started GET "/assets/header-ee9a22a41cc4d463b0712210c5575dfb.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:41 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:41 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:41 +0200
+
+
+Started GET "/assets/application-ce28873703e3e28fdb19a387944c10b6.css?body=1" for 127.0.0.1 at 2015-02-14 15:51:41 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:51:41 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:53:17 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 705ms (Views: 704.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-d2319794bf5fe905eea4784086ddfddc.css?body=1" for 127.0.0.1 at 2015-02-14 15:53:17 +0200
+
+
+Started GET "/assets/footer-a484777ee0da819e76b89b04229f7552.css?body=1" for 127.0.0.1 at 2015-02-14 15:53:17 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:53:17 +0200
+
+
+Started GET "/assets/header-ee9a22a41cc4d463b0712210c5575dfb.css?body=1" for 127.0.0.1 at 2015-02-14 15:53:17 +0200
+
+
+Started GET "/assets/main-fb5f5b9757731807cca32850f1795787.css?body=1" for 127.0.0.1 at 2015-02-14 15:53:17 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:53:17 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:53:17 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:56:25 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 39ms
+
+ActionView::Template::Error (Illegal nesting: Only properties may be nested beneath properties.
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/footer.sass:11)):
+     5:     meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"
+     6:     meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"
+     7:     title loop
+     8:     = stylesheet_link_tag "application", media: "all"
+     9:     = csrf_meta_tags 
+    10: 
+    11:   body
+  app/assets/stylesheets/footer.sass:11
+  app/views/layouts/application.slim:8:in `_app_views_layouts_application_slim__460259847__634002268'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (23.7ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (59.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:57:20 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 1625ms (Views: 1624.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-910ddea486ef175b20de7677dd282318.css?body=1" for 127.0.0.1 at 2015-02-14 15:57:21 +0200
+
+
+Started GET "/assets/header-2622dcb9925ad96b053ddc03f3bd0084.css?body=1" for 127.0.0.1 at 2015-02-14 15:57:21 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:57:21 +0200
+
+
+Started GET "/assets/main-4481d3bea6ddc1294ac07be517747917.css?body=1" for 127.0.0.1 at 2015-02-14 15:57:21 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:57:22 +0200
+
+
+Started GET "/assets/application-8b3c8d23112f137eea2eb6aec876f774.css?body=1" for 127.0.0.1 at 2015-02-14 15:57:22 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:57:22 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 15:57:22 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:57:22 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 15:59:56 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 11 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 659ms (Views: 658.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-452117d14711951c1fc8d4c8103f7e0e.css?body=1" for 127.0.0.1 at 2015-02-14 15:59:57 +0200
+
+
+Started GET "/assets/header-2622dcb9925ad96b053ddc03f3bd0084.css?body=1" for 127.0.0.1 at 2015-02-14 15:59:57 +0200
+
+
+Started GET "/assets/application-010197d6ddaad90895644ff67ff55286.css?body=1" for 127.0.0.1 at 2015-02-14 15:59:57 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 15:59:57 +0200
+
+
+Started GET "/assets/footer-910ddea486ef175b20de7677dd282318.css?body=1" for 127.0.0.1 at 2015-02-14 15:59:57 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 15:59:57 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 15:59:57 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 15:59:57 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 15:59:57 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 16:00:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 652ms (Views: 650.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-1b49df15bf94d2f5c258eef03492a35f.css?body=1" for 127.0.0.1 at 2015-02-14 16:00:17 +0200
+
+
+Started GET "/assets/footer-fb7a126984459410ae547c4a7718281f.css?body=1" for 127.0.0.1 at 2015-02-14 16:00:17 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 16:00:17 +0200
+
+
+Started GET "/assets/header-2622dcb9925ad96b053ddc03f3bd0084.css?body=1" for 127.0.0.1 at 2015-02-14 16:00:17 +0200
+
+
+Started GET "/assets/main-452117d14711951c1fc8d4c8103f7e0e.css?body=1" for 127.0.0.1 at 2015-02-14 16:00:17 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 16:00:17 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 16:00:17 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 16:00:17 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 16:00:17 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 16:00:32 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 635ms (Views: 633.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-d0c92fe7bb8710aa4077bbd1df373ce1.css?body=1" for 127.0.0.1 at 2015-02-14 16:00:33 +0200
+
+
+Started GET "/assets/header-2622dcb9925ad96b053ddc03f3bd0084.css?body=1" for 127.0.0.1 at 2015-02-14 16:00:33 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 16:00:33 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 16:00:33 +0200
+
+
+Started GET "/assets/application-eb6de0bfe13874ff8b1f07d8b8b96bb9.css?body=1" for 127.0.0.1 at 2015-02-14 16:00:33 +0200
+
+
+Started GET "/assets/main-452117d14711951c1fc8d4c8103f7e0e.css?body=1" for 127.0.0.1 at 2015-02-14 16:00:33 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 16:00:33 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 16:00:33 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 16:00:33 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-14 16:02:05 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 658ms (Views: 657.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-7b092924b8f08f2b1abd110c845491db.css?body=1" for 127.0.0.1 at 2015-02-14 16:02:06 +0200
+
+
+Started GET "/assets/header-2622dcb9925ad96b053ddc03f3bd0084.css?body=1" for 127.0.0.1 at 2015-02-14 16:02:06 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-14 16:02:06 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for 127.0.0.1 at 2015-02-14 16:02:06 +0200
+
+
+Started GET "/assets/main-452117d14711951c1fc8d4c8103f7e0e.css?body=1" for 127.0.0.1 at 2015-02-14 16:02:06 +0200
+
+
+Started GET "/assets/application-96014a0f5a63e4eab859e36a23542d1a.css?body=1" for 127.0.0.1 at 2015-02-14 16:02:06 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for 127.0.0.1 at 2015-02-14 16:02:06 +0200
+
+
+Started GET "/assets/close.png" for 127.0.0.1 at 2015-02-14 16:02:06 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-14 16:02:06 +0200
