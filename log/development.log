@@ -14672,3 +14672,1751 @@ Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for
 
 
 Started GET "/assets/sprite.png" for ::1 at 2015-02-16 15:38:42 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 15:40:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 72ms (Views: 70.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 15:40:17 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 15:40:17 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 15:40:17 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 15:40:17 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 15:40:17 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:40:17 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 15:40:17 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-16 15:40:17 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-16 15:40:17 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 15:40:17 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 15:40:20 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 152ms (Views: 150.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 15:40:20 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 15:40:20 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 15:40:20 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 15:40:20 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 15:40:20 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 15:40:20 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:40:20 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-16 15:40:20 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-16 15:40:20 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 15:40:20 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 15:40:26 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 79ms (Views: 78.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 15:40:26 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 15:40:26 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 15:40:26 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 15:40:26 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:40:26 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 15:40:26 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 15:40:26 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-16 15:40:26 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-16 15:40:26 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 15:40:26 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 15:40:37 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 158ms (Views: 157.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 15:40:37 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 15:40:37 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 15:40:37 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 15:40:37 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 15:40:37 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 15:40:37 +0200
+
+
+Started GET "/assets/main-568b9a86adfafcf32e3d7050419a1c1f.js?body=1" for ::1 at 2015-02-16 15:40:37 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:40:37 +0200
+
+
+Started GET "/assets/application-e04b37ea164858efd3bfeeb0b394f206.js?body=1" for ::1 at 2015-02-16 15:40:37 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 15:40:37 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 15:56:15 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 119ms (Views: 117.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 15:56:15 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 15:56:15 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 15:56:15 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 15:56:15 +0200
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 15:56:15 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 15:56:15 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:56:15 +0200
+
+
+Started GET "/assets/main-6072277815519f961db5ce3470bed2bf.js?body=1" for ::1 at 2015-02-16 15:56:15 +0200
+
+
+Started GET "/assets/application-6122692b695177cce8e995c3fe7b357e.js?body=1" for ::1 at 2015-02-16 15:56:15 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 15:56:15 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 15:56:28 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 101ms (Views: 100.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 15:56:29 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 15:56:29 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 15:56:29 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 15:56:29 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 15:56:29 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 15:56:29 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:56:29 +0200
+
+
+Started GET "/assets/main-fc59f8caba40b06d285426c71513ddbd.js?body=1" for ::1 at 2015-02-16 15:56:29 +0200
+
+
+Started GET "/assets/application-bda69e8b344b4cf1469ceac8a53e1dcb.js?body=1" for ::1 at 2015-02-16 15:56:29 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 15:56:29 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:46:05 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (8.6ms)
+Completed 200 OK in 108ms (Views: 107.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:46:06 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:46:06 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:46:06 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:46:06 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:46:06 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:46:06 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:46:06 +0200
+
+
+Started GET "/assets/main-ccd7051c8449e714a5debb40f7feda5b.js?body=1" for ::1 at 2015-02-16 16:46:06 +0200
+
+
+Started GET "/assets/application-da9b09413a64210ca0e91eb3142d2224.js?body=1" for ::1 at 2015-02-16 16:46:06 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:46:06 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:46:07 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 141ms (Views: 140.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:46:07 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:46:07 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:46:07 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:46:07 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:46:07 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:46:07 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:46:07 +0200
+
+
+Started GET "/assets/main-ccd7051c8449e714a5debb40f7feda5b.js?body=1" for ::1 at 2015-02-16 16:46:07 +0200
+
+
+Started GET "/assets/application-da9b09413a64210ca0e91eb3142d2224.js?body=1" for ::1 at 2015-02-16 16:46:07 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:46:07 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:47:33 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 95ms (Views: 94.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:47:33 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:47:33 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:47:33 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:47:33 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:47:33 +0200
+
+
+Started GET "/assets/main-c4e5027f60cfc6ca70d6093e88c1e4e2.js?body=1" for ::1 at 2015-02-16 16:47:33 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:47:33 +0200
+
+
+Started GET "/assets/application-d47d6e00e5102bf4a2c2c139d015d7dc.js?body=1" for ::1 at 2015-02-16 16:47:33 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:47:33 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:47:33 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:47:35 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 73ms (Views: 72.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:47:35 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:47:35 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:47:35 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:47:35 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:47:35 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:47:35 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:47:35 +0200
+
+
+Started GET "/assets/main-c4e5027f60cfc6ca70d6093e88c1e4e2.js?body=1" for ::1 at 2015-02-16 16:47:35 +0200
+
+
+Started GET "/assets/application-d47d6e00e5102bf4a2c2c139d015d7dc.js?body=1" for ::1 at 2015-02-16 16:47:35 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:47:35 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:48:19 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 156ms (Views: 155.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:48:19 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:48:19 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:48:20 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:48:20 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:48:20 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:48:20 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:48:20 +0200
+
+
+Started GET "/assets/main-0c590eb7707cbca15288ce8b5c5e7c10.js?body=1" for ::1 at 2015-02-16 16:48:20 +0200
+
+
+Started GET "/assets/application-1b4b9ea2be07856e8074ffa0306aff5a.js?body=1" for ::1 at 2015-02-16 16:48:20 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:48:20 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:48:45 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 165ms (Views: 164.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:48:45 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:48:45 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:48:45 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:48:45 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:48:45 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:48:45 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:48:45 +0200
+
+
+Started GET "/assets/main-201b488226a1b37dccc4dd511fcf46b1.js?body=1" for ::1 at 2015-02-16 16:48:45 +0200
+
+
+Started GET "/assets/application-da6d779fdd42224998de198427355847.js?body=1" for ::1 at 2015-02-16 16:48:45 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:48:45 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:48:46 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 58ms (Views: 57.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:48:46 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:48:46 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:48:46 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:48:46 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:48:46 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:48:46 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:48:46 +0200
+
+
+Started GET "/assets/application-da6d779fdd42224998de198427355847.js?body=1" for ::1 at 2015-02-16 16:48:46 +0200
+
+
+Started GET "/assets/main-201b488226a1b37dccc4dd511fcf46b1.js?body=1" for ::1 at 2015-02-16 16:48:46 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:48:46 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:48:50 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 154ms (Views: 153.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:48:50 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:48:50 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:48:50 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:48:50 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:48:50 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:48:50 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:48:50 +0200
+
+
+Started GET "/assets/main-201b488226a1b37dccc4dd511fcf46b1.js?body=1" for ::1 at 2015-02-16 16:48:50 +0200
+
+
+Started GET "/assets/application-da6d779fdd42224998de198427355847.js?body=1" for ::1 at 2015-02-16 16:48:50 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:48:50 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:50:39 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 81ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:50:39 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:50:40 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:50:40 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:50:40 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:50:40 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:50:40 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:50:40 +0200
+
+
+Started GET "/assets/main-85443cff78dba289a02d08023324d387.js?body=1" for ::1 at 2015-02-16 16:50:40 +0200
+
+
+Started GET "/assets/application-be03a09d6d353c44c20e84592529cae8.js?body=1" for ::1 at 2015-02-16 16:50:40 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:50:40 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:50:54 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 166ms (Views: 165.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:50:54 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:50:54 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:50:54 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:50:54 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:50:54 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:50:54 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:50:54 +0200
+
+
+Started GET "/assets/main-23167cd9be318962bf82ed0552661d14.js?body=1" for ::1 at 2015-02-16 16:50:54 +0200
+
+
+Started GET "/assets/application-789e8906149c162f14d922625f74064d.js?body=1" for ::1 at 2015-02-16 16:50:54 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:50:55 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:51:53 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 103ms (Views: 102.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:51:53 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:51:53 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:51:53 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:51:53 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:51:53 +0200
+
+
+Started GET "/assets/main-e4f36f14f8a70d3722a8f73222d49f3e.js?body=1" for ::1 at 2015-02-16 16:51:53 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:51:53 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:51:53 +0200
+
+
+Started GET "/assets/application-8c2266c6511b40959ade4306d568a939.js?body=1" for ::1 at 2015-02-16 16:51:53 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:51:53 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:52:09 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 114ms (Views: 113.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:52:09 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:52:09 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:52:09 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:52:09 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:52:09 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:52:09 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:52:09 +0200
+
+
+Started GET "/assets/main-d057c0fc054f138a31bb747505ca83ce.js?body=1" for ::1 at 2015-02-16 16:52:09 +0200
+
+
+Started GET "/assets/application-91ac4ab79a1b2ae2cb35fdb4630bc1b5.js?body=1" for ::1 at 2015-02-16 16:52:09 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:52:09 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:54:24 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 168ms (Views: 167.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:54:24 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:54:24 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:54:24 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:54:24 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:54:24 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:54:24 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:54:24 +0200
+
+
+Started GET "/assets/main-b5801cfdd305ab40a969c66c3e03a8e1.js?body=1" for ::1 at 2015-02-16 16:54:24 +0200
+
+
+Started GET "/assets/application-5f7475b90fdcd640fb5f85f560b4f8b0.js?body=1" for ::1 at 2015-02-16 16:54:24 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:54:24 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:55:24 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 163ms (Views: 162.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:55:24 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:55:24 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:55:24 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:55:24 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:55:24 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:55:24 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:55:24 +0200
+
+
+Started GET "/assets/main-6ad6f66177669b385b35f30f98d8b9e6.js?body=1" for ::1 at 2015-02-16 16:55:24 +0200
+
+
+Started GET "/assets/application-57857715de8a59f05ab9929ebaf12e6d.js?body=1" for ::1 at 2015-02-16 16:55:24 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:55:24 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:56:30 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 96ms (Views: 95.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:56:30 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:56:30 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:56:30 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:56:30 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:56:30 +0200
+
+
+Started GET "/assets/main-7ca1573fb2b9b109595e940d2a3cdaf5.js?body=1" for ::1 at 2015-02-16 16:56:30 +0200
+
+
+Started GET "/assets/application-dabf6576533c5fa7fa6ae99ac62cf6d7.js?body=1" for ::1 at 2015-02-16 16:56:30 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:56:30 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:56:30 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:56:30 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:58:29 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 91ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:58:29 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:58:29 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:58:29 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:58:29 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:58:29 +0200
+
+
+Started GET "/assets/main-c2dc923a675dfd809b8b456ca6c37547.js?body=1" for ::1 at 2015-02-16 16:58:29 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:58:29 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:58:29 +0200
+
+
+Started GET "/assets/application-c1faf034ed5b236ea5582bf4ca718ebc.js?body=1" for ::1 at 2015-02-16 16:58:29 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 16:58:35 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 71ms (Views: 70.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/assets/main-c2dc923a675dfd809b8b456ca6c37547.js?body=1" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/assets/application-c1faf034ed5b236ea5582bf4ca718ebc.js?body=1" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 16:58:35 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:05:19 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 180ms (Views: 179.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/asda" for ::1 at 2015-02-16 17:05:19 +0200
+
+ActionController::RoutingError (No route matches [GET] "/asda"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (0.9ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (1.4ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /opt/rvm/gems/ruby-1.9.3-p194/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (28.2ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:05:20 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:05:20 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:05:20 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 17:05:20 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:05:20 +0200
+
+
+Started GET "/assets/main-28929a5dc8d20cad81ebfc6eec8a20e6.js?body=1" for ::1 at 2015-02-16 17:05:20 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:05:20 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 17:05:20 +0200
+
+
+Started GET "/assets/application-e93312238e1792ab199bab7d7fe022c5.js?body=1" for ::1 at 2015-02-16 17:05:20 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:05:20 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:06:12 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 174ms (Views: 172.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:06:12 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:06:12 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:06:12 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 17:06:12 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:06:12 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 17:06:12 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:06:12 +0200
+
+
+Started GET "/assets/main-e38695393d251068ff9f7bb7c700a521.js?body=1" for ::1 at 2015-02-16 17:06:12 +0200
+
+
+Started GET "/assets/application-74596e31d1e679e63bc804a7909f4ccc.js?body=1" for ::1 at 2015-02-16 17:06:12 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:06:12 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:10:12 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 172ms (Views: 170.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:10:12 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:10:12 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:10:12 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:10:12 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 17:10:12 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:10:12 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 17:10:12 +0200
+
+
+Started GET "/assets/main-58e4b66572a621cd253fba4f61e1999b.js?body=1" for ::1 at 2015-02-16 17:10:12 +0200
+
+
+Started GET "/assets/application-e78cbd38c5b8aa21e23bdd9cdb63a760.js?body=1" for ::1 at 2015-02-16 17:10:12 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:10:12 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:13:36 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 87ms (Views: 85.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:13:37 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:13:37 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 17:13:37 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:13:37 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:13:37 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 17:13:37 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:13:37 +0200
+
+
+Started GET "/assets/application-d9aa4ce8ac8d9536e09da083602bd1ec.js?body=1" for ::1 at 2015-02-16 17:13:37 +0200
+
+
+Started GET "/assets/main-db65d72db45639d004d3d5a4f2ca8539.js?body=1" for ::1 at 2015-02-16 17:13:37 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:13:37 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:14:03 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 105ms (Views: 104.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:14:03 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:14:03 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:14:03 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 17:14:03 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:14:03 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 17:14:03 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:14:03 +0200
+
+
+Started GET "/assets/main-d3b9ffd9aac8bade2b84c7dd0e6947fb.js?body=1" for ::1 at 2015-02-16 17:14:03 +0200
+
+
+Started GET "/assets/application-283bd2b28ca43e8af699b799a3111c16.js?body=1" for ::1 at 2015-02-16 17:14:03 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:14:06 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:14:27 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 217ms (Views: 216.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:14:27 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:14:27 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:14:27 +0200
+
+
+Started GET "/assets/main-a5ea267543e677094915bab16403e549.css?body=1" for ::1 at 2015-02-16 17:14:27 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:14:27 +0200
+
+
+Started GET "/assets/application-e9def188f34a2f9da1bb028ed23d0959.css?body=1" for ::1 at 2015-02-16 17:14:27 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:14:27 +0200
+
+
+Started GET "/assets/main-7584900ce32978be8950c78459ee81de.js?body=1" for ::1 at 2015-02-16 17:14:27 +0200
+
+
+Started GET "/assets/application-7ac732b55d15dffb6033e16efee790d7.js?body=1" for ::1 at 2015-02-16 17:14:27 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:14:27 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:15:13 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /opt/rvm/gems/ruby-1.9.3-p194/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/kostiuchenko/Sites/TEST_LOOP/app/assets/stylesheets/main.sass
+Completed 200 OK in 849ms (Views: 848.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:15:14 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:15:14 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:15:14 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:15:14 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:15:14 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:15:14 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:15:14 +0200
+
+
+Started GET "/assets/main-a0e6fa83924612014803a18e4cb3d815.js?body=1" for ::1 at 2015-02-16 17:15:14 +0200
+
+
+Started GET "/assets/application-7876ccb80514b4411edb4f87920b8832.js?body=1" for ::1 at 2015-02-16 17:15:14 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:15:14 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:18:04 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (10.9ms)
+Completed 200 OK in 183ms (Views: 181.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:18:05 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:18:05 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:18:05 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:18:05 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:18:05 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:18:05 +0200
+
+
+Started GET "/assets/main-d10624fa012c011f2848318ee63c6814.js?body=1" for ::1 at 2015-02-16 17:18:05 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:18:05 +0200
+
+
+Started GET "/assets/application-87fc128de84b22ac9ec00e19b1c04997.js?body=1" for ::1 at 2015-02-16 17:18:05 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:18:05 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:19:15 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 161ms (Views: 160.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:19:15 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:19:15 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:19:15 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:19:15 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:19:15 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:19:15 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:19:15 +0200
+
+
+Started GET "/assets/main-b073c141b5de9b83ad6c31157ec385c5.js?body=1" for ::1 at 2015-02-16 17:19:15 +0200
+
+
+Started GET "/assets/application-0a655c6d6fc03c68d8be338561bf3233.js?body=1" for ::1 at 2015-02-16 17:19:15 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:19:15 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:22:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (13.7ms)
+Completed 200 OK in 207ms (Views: 206.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/assets/main-42367a6dc36d188150407bfeae297867.js?body=1" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/assets/application-7b38e4c2834490bd0fd11e086a0c5838.js?body=1" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:22:16 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:23:40 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 90ms (Views: 89.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:23:40 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:23:40 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:23:40 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:23:40 +0200
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:23:40 +0200
+
+
+Started GET "/assets/main-3af53f27255c17f7fd2cb3799c1f1413.js?body=1" for ::1 at 2015-02-16 17:23:40 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:23:40 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:23:40 +0200
+
+
+Started GET "/assets/application-58d278aa82621e541f85ba30238a7119.js?body=1" for ::1 at 2015-02-16 17:23:40 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:23:40 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:25:22 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 67ms (Views: 66.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:25:22 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:25:22 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:25:22 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:25:22 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:25:22 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:25:22 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:25:22 +0200
+
+
+Started GET "/assets/main-3af53f27255c17f7fd2cb3799c1f1413.js?body=1" for ::1 at 2015-02-16 17:25:22 +0200
+
+
+Started GET "/assets/application-58d278aa82621e541f85ba30238a7119.js?body=1" for ::1 at 2015-02-16 17:25:22 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:25:22 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:25:26 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 139ms (Views: 138.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:25:27 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:25:27 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:25:27 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:25:27 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:25:27 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:25:27 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:25:27 +0200
+
+
+Started GET "/assets/application-58d278aa82621e541f85ba30238a7119.js?body=1" for ::1 at 2015-02-16 17:25:27 +0200
+
+
+Started GET "/assets/main-3af53f27255c17f7fd2cb3799c1f1413.js?body=1" for ::1 at 2015-02-16 17:25:27 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:25:27 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:29:19 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 99ms (Views: 98.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:29:19 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:29:20 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:29:20 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:29:20 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:29:20 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:29:20 +0200
+
+
+Started GET "/assets/main-11ba4e75bc8ab509f522634618660cbf.js?body=1" for ::1 at 2015-02-16 17:29:20 +0200
+
+
+Started GET "/assets/application-b7546386c931106fad7089544bdc2841.js?body=1" for ::1 at 2015-02-16 17:29:20 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:29:20 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:29:20 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:29:39 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 83ms (Views: 81.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:29:40 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:29:40 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:29:40 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:29:40 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:29:40 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:29:40 +0200
+
+
+Started GET "/assets/application-5a7a4041183343a9878587c9f37880f6.js?body=1" for ::1 at 2015-02-16 17:29:40 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:29:40 +0200
+
+
+Started GET "/assets/main-3d04623af51102384935f16d85e760d7.js?body=1" for ::1 at 2015-02-16 17:29:40 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:29:40 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:30:03 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 140ms (Views: 139.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:30:03 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:30:03 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:30:03 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:30:03 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:30:03 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:30:03 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:30:03 +0200
+
+
+Started GET "/assets/main-3d04623af51102384935f16d85e760d7.js?body=1" for ::1 at 2015-02-16 17:30:03 +0200
+
+
+Started GET "/assets/application-5a7a4041183343a9878587c9f37880f6.js?body=1" for ::1 at 2015-02-16 17:30:03 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:30:03 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:30:35 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 72ms (Views: 71.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:30:35 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:30:35 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:30:35 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:30:35 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:30:35 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:30:35 +0200
+
+
+Started GET "/assets/main-8fb1cc5a020d24fc5a3b8918a6d463fe.js?body=1" for ::1 at 2015-02-16 17:30:35 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:30:35 +0200
+
+
+Started GET "/assets/application-9ed8b6d72ff0b72e306e9539ebbb5dab.js?body=1" for ::1 at 2015-02-16 17:30:35 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:30:35 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:30:52 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 97ms (Views: 96.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:30:52 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:30:52 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:30:52 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:30:52 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:30:52 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:30:52 +0200
+
+
+Started GET "/assets/main-3d04623af51102384935f16d85e760d7.js?body=1" for ::1 at 2015-02-16 17:30:52 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:30:52 +0200
+
+
+Started GET "/assets/application-5a7a4041183343a9878587c9f37880f6.js?body=1" for ::1 at 2015-02-16 17:30:52 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:30:52 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:32:15 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 103ms (Views: 102.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:32:15 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:32:15 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:32:15 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:32:15 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:32:15 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:32:15 +0200
+
+
+Started GET "/assets/application-193ed3d0ee1da8e11965a2894fff6f27.js?body=1" for ::1 at 2015-02-16 17:32:15 +0200
+
+
+Started GET "/assets/main-599483a1cdaec96a6efe8da47cfe2025.js?body=1" for ::1 at 2015-02-16 17:32:15 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:32:15 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:32:15 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:32:27 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 137ms (Views: 136.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:32:27 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:32:27 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:32:28 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:32:28 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:32:28 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:32:28 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:32:28 +0200
+
+
+Started GET "/assets/main-a90bfed0fb64bc204e1f2cc095ec717b.js?body=1" for ::1 at 2015-02-16 17:32:28 +0200
+
+
+Started GET "/assets/application-83c38122f588938320e1d413f30909c3.js?body=1" for ::1 at 2015-02-16 17:32:28 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:32:28 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:33:44 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 70ms (Views: 69.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:33:45 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:33:45 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:33:45 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:33:45 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:33:45 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:33:45 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:33:45 +0200
+
+
+Started GET "/assets/main-a90bfed0fb64bc204e1f2cc095ec717b.js?body=1" for ::1 at 2015-02-16 17:33:45 +0200
+
+
+Started GET "/assets/application-83c38122f588938320e1d413f30909c3.js?body=1" for ::1 at 2015-02-16 17:33:45 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:33:45 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:33:51 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 113ms (Views: 112.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:33:51 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:33:51 +0200
+
+
+Started GET "/assets/header-e8e404a3092dc0104d0d4be7478bfb63.css?body=1" for ::1 at 2015-02-16 17:33:51 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:33:51 +0200
+
+
+Started GET "/assets/application-c319fbfe2bab83e321acc56013da698c.css?body=1" for ::1 at 2015-02-16 17:33:51 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:33:51 +0200
+
+
+Started GET "/assets/main-11ba4e75bc8ab509f522634618660cbf.js?body=1" for ::1 at 2015-02-16 17:33:51 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:33:51 +0200
+
+
+Started GET "/assets/application-b7546386c931106fad7089544bdc2841.js?body=1" for ::1 at 2015-02-16 17:33:51 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:33:51 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:34:13 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 200 OK in 815ms (Views: 814.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:34:14 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:34:14 +0200
+
+
+Started GET "/assets/header-342536c691c289085e70ed7c5d210f69.css?body=1" for ::1 at 2015-02-16 17:34:14 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:34:14 +0200
+
+
+Started GET "/assets/application-aed4aa0b487b945d9ef16b659fe55948.css?body=1" for ::1 at 2015-02-16 17:34:14 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:34:14 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:34:14 +0200
+
+
+Started GET "/assets/application-b7546386c931106fad7089544bdc2841.js?body=1" for ::1 at 2015-02-16 17:34:14 +0200
+
+
+Started GET "/assets/main-11ba4e75bc8ab509f522634618660cbf.js?body=1" for ::1 at 2015-02-16 17:34:14 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:34:14 +0200
+
+
+Started GET "/" for ::1 at 2015-02-16 17:34:20 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 51ms (Views: 50.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-d9e20e18a2ca31dc67104ab528c95513.css?body=1" for ::1 at 2015-02-16 17:34:20 +0200
+
+
+Started GET "/assets/footer-2fe98721ec61dd744ae9d1b785a93964.css?body=1" for ::1 at 2015-02-16 17:34:20 +0200
+
+
+Started GET "/assets/header-342536c691c289085e70ed7c5d210f69.css?body=1" for ::1 at 2015-02-16 17:34:20 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 17:34:20 +0200
+
+
+Started GET "/assets/application-aed4aa0b487b945d9ef16b659fe55948.css?body=1" for ::1 at 2015-02-16 17:34:20 +0200
+
+
+Started GET "/assets/main-41f719221f0aadd1f8b753efb6ced778.css?body=1" for ::1 at 2015-02-16 17:34:20 +0200
+
+
+Started GET "/assets/main-11ba4e75bc8ab509f522634618660cbf.js?body=1" for ::1 at 2015-02-16 17:34:20 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 17:34:20 +0200
+
+
+Started GET "/assets/application-b7546386c931106fad7089544bdc2841.js?body=1" for ::1 at 2015-02-16 17:34:20 +0200
+
+
+Started GET "/assets/sprite.png" for ::1 at 2015-02-16 17:34:20 +0200
