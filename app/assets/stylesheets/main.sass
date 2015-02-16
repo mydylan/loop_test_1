@@ -1,4 +1,5 @@
 @import bourbon
+@import mixins_and_vars
 
 html
   overflow: hidden
@@ -17,6 +18,7 @@ html
     position: relative
     @media screen and (orientation: landscape)
       min-height: 320px
+      margin-left: 22px 
     .content_banner
       height: 100%
       width: 100%
@@ -27,47 +29,44 @@ html
         display: block
     .banner_image
       +flex(auto)
-      height: 52%
+      max-width: 81.25%
       border-radius: 15px
       color: #F23005
-      border: 2px solid white
-      position: relative
-      background: url('http://i.loopme.me/db35436199e510a0.png') no-repeat
-      background-size: 100% 100%
-      margin: 0 33px
+      margin: 0 auto
       @media screen and (orientation: landscape)
-        height: 55%
         margin: 45px 80px 0
-      &::before
-        content: ""
-        display: block
-        background: url('http://i.loopme.me/db35436199e510a0.png') no-repeat
-        background-size: 100% 100%
+      img
         width: 100%
         height: 100%
-        border-radius: 15px
-        top: 100%
-        +transform(rotateX(180deg))
-        position: relative
+        border-radius: 12px
+        border: 2px solid white
+    .reflect_banner
+      position: relative
+      width: 100%
+      height: 100%
+      margin: 0 auto
+      color: #F23005
+      img
+        +transform(scaleY(-1))
         opacity: 0.4
-        border-radius: 15px
-
+        border-radius: 12px
+  
     .download
       width: 79%
-      height: 7%
+      height: 36px
       border-radius: 8px
       border: 1px solid black
       text-align: center
       position: relative
+      bottom: 100px
+      margin: 0 auto
       background: #00AF33
       color: #fff
       font-size: 23px
       line-height: 33px
-      margin: -33% auto
       @media screen and (orientation: landscape)
         width: 66%
-        height: 10%
-        margin: -25% auto
+        height: 36px
 
 
 
