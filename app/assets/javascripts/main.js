@@ -14,9 +14,8 @@ var image_url,
   images = document.querySelectorAll('img'),
   download_button = document.querySelector('.download'),
   link_on_banner = document.querySelector('.banner_url'),
-  close_btn = document.querySelector('.close');
-
-
+  close_btn = document.querySelector('.close'),
+  social_button = document.querySelectorAll('.social_button');
 
 image_url = data.ads[0].data.image_url;
 
@@ -26,12 +25,14 @@ click_url = data.ads[0].data.click_url;
 download_btn_color = data.ads[0].data.download_btn_color;
 share_url = data.ads[0].data.share_url;
 
-
+console.log(data);
 //events on buttons. Send GET request
 ad_like = data.ads[0].beacons.ad_like;
 ad_hide = data.ads[0].beacons.ad_hide; 
-ad_share = data.ads[0].beacons.ad_share;
 ad_show = data.ads[0].beacons.ad_show;
+ad_share = data.ads[0].beacons.ad_share;
+
+
 
 //when image fully loaded request trigger as GET request
 inbox_open = data.session.beacons.inbox_open;
@@ -61,8 +62,53 @@ close_btn.addEventListener('click', function(){
 
 
 // Banner buttons should take proper link and send GET request to it when buttons pressed (ad_like, ad_hide, ad_share)
+//function that take URL and send GET request
+function httpGet(URL){
+  var xmlHttp;
+  
+  xmlHttp = new XMLHttpRequest();
+  xmlHttp.open( "GET", URL, true );
+  xmlHttp.send();
+  return xmlHttp.responseText;
+}
+
+//add eventListener on buttons
+[].forEach.call(social_button, function(social_button){
+  social_button.addEventListener('click', function(e){
+    var url_get = e.target.className,
+        count,
+        value;
+    switch(url_get) {
+      case 'ad_like':
+        url_get = data.ads[0].beacons.ad_like
+        break
+      case 'ad_hide':
+        url_get = data.ads[0].beacons.ad_hide
+        break
+      case 'ad_show':
+        url_get = data.ads[0].beacons.ad_show
+        break
+      case 'ad_share':
+        url_get = data.ads[0].beacons.ad_share
+        break
+    };
+    console.log(url_get);
+    httpGet(url_get);
+    //Social bar should provide simple functionality like collecting and storing data (WebStorage, cookie, etc.)
+    // count = 0;
+    // value = window.localStorage.getItem(url_get) + count;
+    // console.log(value);
+    // window.localStorage.setItem(url_get, value + 1);
+    // debugger
+    
+  });
+});
 
 
+// when image fully loaded request trigger as GET request
+images[0].onload = function(){
+  httpGet(inbox_open); 
+};
 
 
 
