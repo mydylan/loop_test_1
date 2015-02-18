@@ -15,32 +15,63 @@ var image_url,
   download_button = document.querySelector('.download'),
   link_on_banner = document.querySelector('.banner_url'),
   close_btn = document.querySelector('.close'),
-  social_button = document.querySelectorAll('.social_button');
+  social_button = document.querySelectorAll('.social_button'),
+  JSON_URL = 'http://loopme.me/api/v2/ads?p=1&vt=g89v1bs9cx&ak=caab1e2a20&pp=1';
+
+// console.log(data);
+
+//JSON GET
+// function createCors(method, url) {
+//   var xhr = new XMLHttpRequest();
+//   if ('withCredentials' in xhr) {
+//     xhr.open(method, url, true);
+//   } 
+//   else if(typeof XDomainRequest != 'undefined') {
+//     xhr = new XDomainRequest();
+//     xhr.open(method, url);
+//   }
+//   else {
+//     xhr = null;
+//   }
+//   return xhr;
+// }
+
+// var xhr = createCors("GET", JSON_URL);
+// xhr.send();
+// console.log(xhr);
+
+// var getJSON = function(url) {
+
+//   var xhr = new XMLHttpRequest();
+//   xhr.open('get', url, true);
+//   xhr.responseType = 'json';
+//   // xhr.onreadystatechange = handler;
+//   // xhr.withCredentials = 'true';
+//   // xhr.crossDomain = 'true';
+  
+//   xhr.send();
+
+// };
+
+// getJSON(JSON_URL, function(data) {
+//   console.log(data);
+// });
+
+
 
 image_url = data.ads[0].data.image_url;
-
 //add event handler on banner
 click_url = data.ads[0].data.click_url;
-
 download_btn_color = data.ads[0].data.download_btn_color;
 share_url = data.ads[0].data.share_url;
-
-console.log(data);
 //events on buttons. Send GET request
 ad_like = data.ads[0].beacons.ad_like;
 ad_hide = data.ads[0].beacons.ad_hide; 
 ad_show = data.ads[0].beacons.ad_show;
 ad_share = data.ads[0].beacons.ad_share;
-
-
-
 //when image fully loaded request trigger as GET request
 inbox_open = data.session.beacons.inbox_open;
-
 ad_close = data.session.beacons.ad_close;
-
-
-
 //Set banner
 //Array.prototype ....call forEach loop
 [].forEach.call(images, function(images){
@@ -51,15 +82,12 @@ ad_close = data.session.beacons.ad_close;
 link_on_banner.setAttribute('href', click_url);
 
 //Set download_button_color
-(function(){
-  download_button.style.backgroundColor = download_btn_color;
-})();
+download_button.style.backgroundColor = download_btn_color;
 
 //add clear properties to CLOSE button
 close_btn.addEventListener('click', function(){
   document.querySelector('html').innerHTML = '';
 });
-
 
 // Banner buttons should take proper link and send GET request to it when buttons pressed (ad_like, ad_hide, ad_share)
 //function that take URL and send GET request
@@ -94,13 +122,6 @@ function httpGet(URL){
     };
     console.log(url_get);
     httpGet(url_get);
-    //Social bar should provide simple functionality like collecting and storing data (WebStorage, cookie, etc.)
-    // count = 0;
-    // value = window.localStorage.getItem(url_get) + count;
-    // console.log(value);
-    // window.localStorage.setItem(url_get, value + 1);
-    // debugger
-    
   });
 });
 
