@@ -22397,3 +22397,1843 @@ Started GET "/assets/main-b462e93db88539004bdb9801ff71a5d7.js?body=1" for 172.17
 
 
 Started GET "/assets/sprite.png" for 172.17.18.25 at 2015-02-18 13:44:48 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:01:46 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (96.6ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 3263ms (Views: 3230.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:01:50 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 122ms (Views: 121.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/index-b462e93db88539004bdb9801ff71a5d7.js?body=1" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/application-9899a53313191ffac007e137a1bd68c8.js?body=1" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/main-73961ac61c511e360eb61fe4ef45ad0d.js?body=1" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:01:51 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:02:04 +0200
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:02:04 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:02:04 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:02:04 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:18:30 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 275ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:41:19: unmatched )
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (20.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (13.2ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (3.0ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (89.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 345ms (Views: 343.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/assets/index-35aded149b590fe5bdfe17fa7b89f381.js?body=1" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/assets/main-8bb49bdf58482b74cd1bd7fbf794b4f3.js?body=1" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/assets/application-45971e9718e185bfeb91e0a81afe3c02.js?body=1" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:18:54 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 424ms (Views: 422.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main-b9d6f8f4ee7040373bbe428cbb9fa9cb.js?body=1" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+
+
+Started GET "/assets/application-b95a12e6d3c449782883e3c1edb496ba.js?body=1" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+
+
+Started GET "/assets/index-35aded149b590fe5bdfe17fa7b89f381.js?body=1" for 127.0.0.1 at 2015-02-22 23:20:39 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:21:02 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 345ms (Views: 343.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/assets/index-35aded149b590fe5bdfe17fa7b89f381.js?body=1" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/assets/main-a063857c5793d9b1881393496b32b390.js?body=1" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/assets/application-6f42835bbb6baa385ed50a075158946b.js?body=1" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:21:03 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 343ms (Views: 341.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/assets/index-35aded149b590fe5bdfe17fa7b89f381.js?body=1" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/assets/application-f3a3cab5dabca4cb2246ec26fdc38963.js?body=1" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/assets/main-077225432196033bb43462c00e8b841a.js?body=1" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:21:26 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:22:39 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 115ms (Views: 113.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:22:39 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:22:40 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:22:40 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:22:40 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:22:40 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:22:40 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:22:40 +0200
+
+
+Started GET "/assets/main-077225432196033bb43462c00e8b841a.js?body=1" for 127.0.0.1 at 2015-02-22 23:22:40 +0200
+
+
+Started GET "/assets/index-35aded149b590fe5bdfe17fa7b89f381.js?body=1" for 127.0.0.1 at 2015-02-22 23:22:40 +0200
+
+
+Started GET "/assets/application-f3a3cab5dabca4cb2246ec26fdc38963.js?body=1" for 127.0.0.1 at 2015-02-22 23:22:40 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:22:40 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 329ms (Views: 327.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/assets/index-07784ff34acbf1caaef123dd345b8473.js?body=1" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/assets/main-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/assets/application-276106e0023a5eb4226169fa67660721.js?body=1" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:28:39 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:35:17 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 324ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:4:1: unexpected indentation
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.1ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.8ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (47.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:36:02 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 265ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:4:1: unexpected indentation
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (49.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 306ms (Views: 305.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/assets/main-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/assets/application-3bf0ebc713f75c1be87f1c71b0f59ee1.js?body=1" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:36:44 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:37:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 263ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:4:1: unexpected indentation
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (49.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:38:34 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 256ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:4:1: unexpected indentation
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (15.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (12.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (59.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:41:05 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 244ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:4:1: unexpected indentation
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (15.7ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.7ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (47.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:41:30 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 691ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:65:1: missing indentation
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (29.8ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (27.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.7ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (95.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:41:32 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 322ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:65:1: missing indentation
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (17.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.1ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (49.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 314ms (Views: 312.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/assets/main-8a277eee3ec171c8ef67e1de7b92e00a.js?body=1" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/assets/application-f45b2359758510f5a1b56b2fbb427510.js?body=1" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:42:18 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:46:18 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 258ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:12:1475: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (36.2ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.2ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (70.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:46:41 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 271ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:11:1475: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (15.7ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (47.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:46:54 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 256ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:12:48: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (48.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:47:20 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 256ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:12:48: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (17.8ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (50.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:48:18 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 284ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:11:1475: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.8ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (48.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:48:59 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 268ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:11:1475: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.2ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.7ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (48.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:49:34 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 279ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:17:68: unexpected indentation
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (15.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (47.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:49:58 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 267ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:12:48: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.8ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.2ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (49.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:50:27 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 280ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:13:32: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (48.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:50:57 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 259ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:11:16: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.2ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (48.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 557ms (Views: 555.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/main-c96f98980692b204347f85b98d5af605.js?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/manifest-9c4117d7cce5b78e81a9e8566679e655.js?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/application-3971e73384c5215fbd18542062875db0.js?body=1" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:51:32 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:51:42 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 251ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:11:1475: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.1ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (49.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:52:53 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 268ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:20:23: unexpected ,
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.2ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (49.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:53:47 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 278ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:11:1475: unexpected ,
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (15.8ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (48.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:54:07 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 258ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:20:23: unexpected ,
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.6ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (48.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:54:25 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 264ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:11:1475: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (32.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.8ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (63.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:55:00 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 262ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:11:1475: unexpected ,
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (15.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.3ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (47.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:55:11 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 264ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:11:1475: unexpected ,
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (8.1ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (50.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:55:17 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 270ms
+
+ActionView::Template::Error (SyntaxError: [stdin]:11:1475: unexpected newline
+  (in /home/mydylan/Sites/LOOP/loop_test_1/app/assets/javascripts/main.coffee)):
+    12: 
+    13:     = yield 
+    14:   
+    15:     = javascript_include_tag 'application' 
+  app/views/layouts/application.slim:15:in `_app_views_layouts_application_slim__998828482_91916060'
+
+
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (16.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.9ms)
+  Rendered /home/mydylan/.rvm/gems/ruby-2.1.2/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (48.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:55:42 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 322ms (Views: 320.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/main-c96f98980692b204347f85b98d5af605.js?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/application-3971e73384c5215fbd18542062875db0.js?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/manifest-9c4117d7cce5b78e81a9e8566679e655.js?body=1" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:55:43 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 351ms (Views: 349.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/main-9242067fda4d94489c12dbffce228d40.js?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/manifest-9c4117d7cce5b78e81a9e8566679e655.js?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/application-1375485101ea3dfa93f122efa42e19d0.js?body=1" for 127.0.0.1 at 2015-02-22 23:56:19 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:56:20 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:56:45 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 339ms (Views: 337.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/main-bfae87ea42c895b50d516885a77b546a.js?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/application-a8bb9a12594b579d5c3fefd153e83e46.js?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/manifest-9c4117d7cce5b78e81a9e8566679e655.js?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:56:46 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 374ms (Views: 373.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/main-1ed46ed88e9b68d50741db02efacd73b.js?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/manifest-9c4117d7cce5b78e81a9e8566679e655.js?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/application-c9237d0e74062dad3c8c303a2b9733b5.js?body=1" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:57:14 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 378ms (Views: 377.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/manifest-9c4117d7cce5b78e81a9e8566679e655.js?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/application-1c978ae3561e65b145f58ab78cb4906f.js?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/main-677969a8538b957888e9443630f54805.js?body=1" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:58:12 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 368ms (Views: 366.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/main-345b27f7a3d0998533822c3ed53890ef.js?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/application-a001f7381f10401e871e54de07d8d0a7.js?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/manifest-9c4117d7cce5b78e81a9e8566679e655.js?body=1" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-22 23:59:10 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 371ms (Views: 369.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/main-96e3a9b9f7058f27a5ce20f578b2581b.js?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/manifest-9c4117d7cce5b78e81a9e8566679e655.js?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/application-3e6d2fd809e2f54905aa0627d00c5a61.js?body=1" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:00:26 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 123ms (Views: 122.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/main-96e3a9b9f7058f27a5ce20f578b2581b.js?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/application-3e6d2fd809e2f54905aa0627d00c5a61.js?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/manifest-9c4117d7cce5b78e81a9e8566679e655.js?body=1" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:00:42 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 122ms (Views: 121.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/main-96e3a9b9f7058f27a5ce20f578b2581b.js?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/application-3e6d2fd809e2f54905aa0627d00c5a61.js?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/manifest-9c4117d7cce5b78e81a9e8566679e655.js?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:02:36 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 396ms (Views: 395.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/assets/main-a47f883f3a0d995aa210578693ed46f7.js?body=1" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/assets/application-bbdf5136555acdda97b9a169ada9b5e0.js?body=1" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:04:23 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 368ms (Views: 366.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/assets/main-2021978b92bb6cfb3c817eae76cc2301.js?body=1" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/assets/application-00b5c2bd706b7c7cdcac7fa08ce75009.js?body=1" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:05:26 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 360ms (Views: 358.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/assets/main-573a08cb569571bb26d215794a9287a9.js?body=1" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/assets/application-5fc993ac5c5dc8b377293858a62c9731.js?body=1" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:10:02 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:11:16 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 372ms (Views: 370.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/assets/application-4f722dd626d6f2e6cf536ba776468dd9.js?body=1" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/assets/main-a7cc2c7dbd9e39d52705b0a60d88a088.js?body=1" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:11:17 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:11:40 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 579ms (Views: 576.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:41 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:41 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:41 +0200
+
+
+Started GET "/assets/header-958a2789036845e387c1eba4c24922cb.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:41 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:41 +0200
+
+
+Started GET "/assets/application-14da3fb18acee1d2ca8fbb1fbb173051.css?body=1" for 127.0.0.1 at 2015-02-23 00:11:41 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:11:41 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:11:41 +0200
+
+
+Started GET "/assets/main-816289b52bc38374741e3ffb15ad3003.js?body=1" for 127.0.0.1 at 2015-02-23 00:11:42 +0200
+
+
+Started GET "/assets/application-67fdf6890a4c7edb0a2003b393770d33.js?body=1" for 127.0.0.1 at 2015-02-23 00:11:42 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:11:42 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:12:17 +0200
+Processing by ProjectController#index as */*
+  Rendered project/index.slim within layouts/application (13.4ms)
+Completed 200 OK in 132ms (Views: 131.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:12:59 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 1115ms (Views: 1113.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:00 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:00 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:00 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:00 +0200
+
+
+Started GET "/assets/application-bf1f1cb2f4a35e71647b665e4d81faf5.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:00 +0200
+
+
+Started GET "/assets/header-d715b1822fdd2574591fde9855d83a04.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:01 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:13:01 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:13:01 +0200
+
+
+Started GET "/assets/main-d62b37ed9470dc1294e95149837ea638.js?body=1" for 127.0.0.1 at 2015-02-23 00:13:01 +0200
+
+
+Started GET "/assets/application-9238df6861befa0338d0b9c331445912.js?body=1" for 127.0.0.1 at 2015-02-23 00:13:01 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:13:01 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:13:31 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 357ms (Views: 356.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:31 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:31 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:31 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:31 +0200
+
+
+Started GET "/assets/header-d715b1822fdd2574591fde9855d83a04.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:31 +0200
+
+
+Started GET "/assets/application-bf1f1cb2f4a35e71647b665e4d81faf5.css?body=1" for 127.0.0.1 at 2015-02-23 00:13:32 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:13:32 +0200
+
+
+Started GET "/assets/main-1d7193449738f7a2003beb8c54f67f18.js?body=1" for 127.0.0.1 at 2015-02-23 00:13:32 +0200
+
+
+Started GET "/assets/application-71c2e703b1533a0654ebdd84e8cfbe66.js?body=1" for 127.0.0.1 at 2015-02-23 00:13:32 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:13:32 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:13:32 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:15:09 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 373ms (Views: 371.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-b362158a56178709bd00095c92d26edf.js?body=1" for 127.0.0.1 at 2015-02-23 00:15:09 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:15:09 +0200
+
+
+Started GET "/assets/header-d715b1822fdd2574591fde9855d83a04.css?body=1" for 127.0.0.1 at 2015-02-23 00:15:09 +0200
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:15:09 +0200
+
+
+Started GET "/assets/main-022eae25a2bf52fd3b1ae2651f1a6d9f.js?body=1" for 127.0.0.1 at 2015-02-23 00:15:09 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:15:09 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:15:09 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:15:09 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:15:10 +0200
+
+
+Started GET "/assets/application-bf1f1cb2f4a35e71647b665e4d81faf5.css?body=1" for 127.0.0.1 at 2015-02-23 00:15:10 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:18:19 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 369ms (Views: 368.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/assets/header-d715b1822fdd2574591fde9855d83a04.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/assets/application-bf1f1cb2f4a35e71647b665e4d81faf5.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/assets/application-6f490cb166710811b6f714086bda7a2f.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/assets/main-23ffed2206b97e15b9a83206b70f61e0.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:18:20 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:18:28 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 132ms (Views: 130.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/assets/header-d715b1822fdd2574591fde9855d83a04.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/assets/application-bf1f1cb2f4a35e71647b665e4d81faf5.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/assets/main-23ffed2206b97e15b9a83206b70f61e0.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/assets/application-6f490cb166710811b6f714086bda7a2f.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:18:29 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+Completed 200 OK in 120ms (Views: 119.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/assets/main-600d0cd54df23ee55c5de22ddee8293e.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/assets/header-d715b1822fdd2574591fde9855d83a04.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/assets/application-bf1f1cb2f4a35e71647b665e4d81faf5.css?body=1" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/assets/index-201b5488d4bb0e3a7f43e3d540803507.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/assets/main-23ffed2206b97e15b9a83206b70f61e0.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/assets/application-6f490cb166710811b6f714086bda7a2f.js?body=1" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:18:46 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 00:20:04 +0200
+Processing by ProjectController#index as HTML
+  Rendered project/index.slim within layouts/application (0.1ms)
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+DEPRECATION WARNING: Passing null, a non-string value, to unquote()
+will be an error in future versions of Sass.
+        on line 6 of /home/mydylan/.rvm/gems/ruby-2.1.2/gems/bourbon-3.2.3/app/assets/stylesheets/helpers/_radial-positions-parser.scss, in `background-image'
+        from line 12 of /home/mydylan/Sites/LOOP/loop_test_1/app/assets/stylesheets/main.sass
+
+Completed 200 OK in 799ms (Views: 798.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/header-d715b1822fdd2574591fde9855d83a04.css?body=1" for 127.0.0.1 at 2015-02-23 00:20:05 +0200
+
+
+Started GET "/assets/mixins_and_vars-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 127.0.0.1 at 2015-02-23 00:20:05 +0200
+
+
+Started GET "/assets/main-1f4156127efbbb4cf0b9b43141aacbf8.css?body=1" for 127.0.0.1 at 2015-02-23 00:20:05 +0200
+
+
+Started GET "/assets/application-4a23d1bd63697b34784153390ac14813.css?body=1" for 127.0.0.1 at 2015-02-23 00:20:05 +0200
+
+
+Started GET "/assets/background-778625310904af51b5bce15ba19e6f15.css?body=1" for 127.0.0.1 at 2015-02-23 00:20:05 +0200
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 127.0.0.1 at 2015-02-23 00:20:05 +0200
+
+
+Started GET "/assets/application-91992a126da9e9cb530b80e311974c07.js?body=1" for 127.0.0.1 at 2015-02-23 00:20:05 +0200
+
+
+Started GET "/assets/footer-7a800bb3e58d8745d9e110c07c527cb1.css?body=1" for 127.0.0.1 at 2015-02-23 00:20:05 +0200
+
+
+Started GET "/assets/main-23ffed2206b97e15b9a83206b70f61e0.js?body=1" for 127.0.0.1 at 2015-02-23 00:20:05 +0200
+
+
+Started GET "/assets/sprite.png" for 127.0.0.1 at 2015-02-23 00:20:05 +0200
